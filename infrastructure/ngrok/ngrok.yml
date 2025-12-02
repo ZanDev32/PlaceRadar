@@ -1,0 +1,9 @@
+version: "2"
+authtoken: "YOUR_NGROK_AUTH_TOKEN"
+tunnels:
+  placeradar:
+    proto: http
+    addr: nginx:80
+    inspect: false
+    host_header: rewrite
+    subdomain: placeradar

@@ -1,0 +1,99 @@
+services:
+  frontend:
+    container_name: ReactJS
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    depends_on:
+      - backend
+    networks:
+      - placeradar-network
+
+  backend:
+    container_name: ExpressJS
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    environment:
+      - MONGO_URI=mongodb://mongodb:27017/placeradar
+    depends_on:
+      - mongodb
+    networks:
+      - placeradar-network
+
+  mongodb:
+    image: mongo:latest
+    container_name: MongoDB
+    volumes:
+      - mongo-data:/data/db
+    networks:
+      - placeradar-network
+
+  nginx:
+    image: nginx:latest
+    container_name: nginX
+    volumes:
+      - ./infrastructure/nginx/nginx.conf:/etc/nginx/nginx.conf
+    ports:
+      - "80:80"
+    depends_on:
+      - frontend
+      - backend
+    networks:
+      - placeradar-network
+
+#  nagios:
+#    image: jasonrivers/nagios:latest
+#    container_name: NagiOS
+#    environment:
+#      - NAGIOS_FQDN=placeradar.dev
+#      - NAGIOS_TIMEZONE=Asia/Jakarta
+#    volumes:
+#v      - ./infrastructure/nagios:/opt/nagios/etc/conf.d:ro
+#    ports:
+#      - "8080:80"
+#    networks:
+#      - placeradar-network
+
+  dnsmasq:
+    image: dockurr/dnsmasq:latest
+    container_name: DNS_Resolver
+    cap_add:
+      - NET_ADMIN
+    environment:
+      - DNS1=1.1.1.1
+      - DNS2=1.0.0.1
+    volumes:
+      - ./infrastructure/dnsmasq/dnsmasq.conf:/etc/dnsmasq.conf:ro
+    ports:
+      - "6969:53/udp"
+      - "6969:53/tcp"
+    networks:
+      - placeradar-network
+
+#  ngrok:
+#    image: ngrok/ngrok:latest
+#    container_name: ngrok
+#    depends_on:
+#      - nginx
+#    environment:
+#      - NGROK_AUTHTOKEN=${NGROK_AUTH_TOKEN:-your_ngrok_auth_token}
+#      - NGROK_CONFIG=/etc/ngrok.yml
+#    command:
+#      - start
+#      - --config
+#      - /etc/ngrok.yml
+#      - placeradar
+#    volumes:
+#      - ./infrastructure/ngrok/ngrok.yml:/etc/ngrok.yml:ro
+#    ports:  
+#      - "4040:4040"
+#    networks:
+#      - placeradar-network
+
+networks: 
+  placeradar-network:
+    driver: bridge
+
+volumes:
+  mongo-data:

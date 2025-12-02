@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Cafe A",
+        "address": "123 Coffee St, Sleman, Yogyakarta",
+        "wifi_speed": "100 Mbps",
+        "power_outlets": 10,
+        "noise_level": "low",
+        "description": "A quiet cafe perfect for studying with ample power outlets."
+    },
+    {
+        "name": "Co-Working Space B",
+        "address": "456 Work Ave, Sleman, Yogyakarta",
+        "wifi_speed": "200 Mbps",
+        "power_outlets": 20,
+        "noise_level": "medium",
+        "description": "A vibrant co-working space with a collaborative atmosphere."
+    },
+    {
+        "name": "Library C",
+        "address": "789 Read St, Sleman, Yogyakarta",
+        "wifi_speed": "50 Mbps",
+        "power_outlets": 5,
+        "noise_level": "quiet",
+        "description": "A serene library ideal for focused work and study."
+    },
+    {
+        "name": "Cafe D",
+        "address": "321 Brew Rd, Sleman, Yogyakarta",
+        "wifi_speed": "75 Mbps",
+        "power_outlets": 8,
+        "noise_level": "medium",
+        "description": "A cozy cafe with a relaxed vibe and good coffee."
+    },
+    {
+        "name": "Study Room E",
+        "address": "654 Study Ln, Sleman, Yogyakarta",
+        "wifi_speed": "150 Mbps",
+        "power_outlets": 15,
+        "noise_level": "low",
+        "description": "A dedicated study room with a quiet environment."
+    }
+]
