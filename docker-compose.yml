@@ -1,3 +1,4 @@
+name: PlaceRadar
 services:
   frontend:
     container_name: ReactJS
@@ -34,44 +35,42 @@ services:
 
   nginx:
     image: nginx:latest
-    container_name: nginX
+    container_name: nginx
     volumes:
       - ./infrastructure/nginx/nginx.conf:/etc/nginx/nginx.conf
+      - ./infrastructure/nginx/certs:/etc/nginx/certs:ro
       - frontend_build:/usr/share/nginx/html
     ports:
       - "80:80"
+      - "443:443"
     depends_on:
       - frontend
       - backend
     networks:
       - placeradar-network
 
-#  nagios:
-#    image: jasonrivers/nagios:latest
-#    container_name: NagiOS
-#    environment:
-#      - NAGIOS_FQDN=placeradar.dev
-#      - NAGIOS_TIMEZONE=Asia/Jakarta
-#    volumes:
-#v      - ./infrastructure/nagios:/opt/nagios/etc/conf.d:ro
-#    ports:
-#      - "8080:80"
-#    networks:
-#      - placeradar-network
-
-  dnsmasq:
-    image: dockurr/dnsmasq:latest
-    container_name: DNS_Resolver
-    cap_add:
-      - NET_ADMIN
+  nagios:
+    image: jasonrivers/nagios:latest
+    container_name: NagiOS
     environment:
-      - DNS1=1.1.1.1
-      - DNS2=1.0.0.1
+      - NAGIOS_FQDN=placeradar.lvh.me
+      - NAGIOS_TIMEZONE=Asia/Jakarta
     volumes:
-      - ./infrastructure/dnsmasq/dnsmasq.conf:/etc/dnsmasq.conf:ro
+      - ./infrastructure/nagios:/opt/nagios/etc/conf.d:ro
     ports:
-      - "6969:53/udp"
-      - "6969:53/tcp"
+      - "8080:80"
+    networks:
+      - placeradar-network
+
+  coredns:
+    image: coredns/coredns:latest
+    container_name: CoreDNS
+    command: -conf /Corefile
+    volumes:
+      - ./infrastructure/coredns/Corefile:/Corefile:ro
+    ports:
+      - "53:53/udp"
+      - "53:53/tcp"
     networks:
       - placeradar-network
 
