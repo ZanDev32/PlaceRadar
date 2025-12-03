@@ -111,7 +111,7 @@ The application uses `placeradar.lvh.me` as the development domain. This is a "m
 
 ### Alternative Access Methods
 - **localhost:** https://localhost (same self-signed cert)
-- **Custom domain:** Configure your OS DNS to use `127.0.0.1` to resolve `placeradar.dev` via CoreDNS
+- **Custom domain:** Configure your OS DNS to use `127.0.0.1` to resolve `placeradar.lvh.me` via CoreDNS
 
 ## Environment Configuration
 
@@ -198,8 +198,8 @@ mongoimport --uri "mongodb://localhost:27017/placeradar" \
 Resolves local development domains. Configuration: [`infrastructure/coredns/Corefile`](infrastructure/coredns/Corefile)
 
 ```
-placeradar.dev     → 127.0.0.1
-api.placeradar.dev → 127.0.0.1
+placeradar.lvh.me     → 127.0.0.1
+api.placeradar.lvh.me → 127.0.0.1
 ```
 
 To use CoreDNS, set your OS DNS server to `127.0.0.1`.

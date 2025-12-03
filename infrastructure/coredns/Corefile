@@ -3,7 +3,7 @@
     errors
 
     hosts {
-        127.0.0.1 placeradar.dev api.placeradar.dev
+        127.0.0.1 placeradar.lvh.me api.placeradar.lvh.me
         fallthrough
     }
 
