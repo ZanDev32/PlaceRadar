@@ -19,17 +19,21 @@ services:
       context: ./backend
       dockerfile: Dockerfile
     environment:
-      - MONGO_URI=mongodb://mongodb:27017/placeradar
+      - DATABASE_URL=postgres://postgres:postgres@postgres:5432/placeradar
     depends_on:
-      - mongodb
+      - postgres
     networks:
       - placeradar-network
 
-  mongodb:
-    image: mongo:latest
-    container_name: MongoDB
+  postgres:
+    image: postgres:latest
+    container_name: PostgreSQL
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: placeradar
     volumes:
-      - mongo-data:/data/db
+      - postgres-data:/var/lib/postgresql/data
     networks:
       - placeradar-network
 
@@ -50,7 +54,9 @@ services:
       - placeradar-network
 
   nagios:
-    image: jasonrivers/nagios:latest
+    build:
+      context: ./infrastructure/nagios
+      dockerfile: Dockerfile
     container_name: NagiOS
     environment:
       - NAGIOS_FQDN=placeradar.lvh.me
@@ -99,5 +105,5 @@ networks:
     driver: bridge
 
 volumes:
-  mongo-data:
+  postgres-data:
   frontend_build:

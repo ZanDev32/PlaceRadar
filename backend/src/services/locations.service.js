@@ -1,24 +1,32 @@
 const Location = require('../models/Location');
 
 const getAllLocations = async () => {
-    return Location.find({});
+    return Location.findAll();
 };
 
 const getLocationById = async (id) => {
-    return Location.findById(id);
+    return Location.findByPk(id);
 };
 
 const createLocation = async (locationData) => {
-    const newLocation = new Location(locationData);
-    return newLocation.save();
+    return Location.create(locationData);
 };
 
 const updateLocation = async (id, locationData) => {
-    return Location.findByIdAndUpdate(id, locationData, { new: true });
+    const [updatedRows, [updatedLocation]] = await Location.update(locationData, {
+        where: { id },
+        returning: true,
+    });
+    return updatedLocation;
 };
 
 const deleteLocation = async (id) => {
-    return Location.findByIdAndDelete(id);
+    const location = await Location.findByPk(id);
+    if (location) {
+        await location.destroy();
+        return location;
+    }
+    return null;
 };
 
 module.exports = {

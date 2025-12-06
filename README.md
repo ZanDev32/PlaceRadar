@@ -26,15 +26,15 @@ The application runs as six Docker services defined in [`docker-compose.yml`](do
 |---------|-----------|-------------|
 | Frontend | ReactJS | React 19 + Vite SPA |
 | Backend | ExpressJS | Node.js REST API |
-| Database | MongoDB | Document store |
+| Database | PostgreSQL | Relational database |
 | Reverse Proxy | nginx | TLS termination & routing |
 | Monitoring | NagiOS | Service health checks |
 | DNS | CoreDNS | Local domain resolution |
 
 ## Tech Stack
 - **Frontend:** React 19 + Vite 7 ([`frontend/package.json`](frontend/package.json))
-- **Backend:** Node.js + Express 5 + Mongoose 9 ([`backend/package.json`](backend/package.json))
-- **Database:** MongoDB (latest)
+- **Backend:** Node.js + Express 5 + Sequelize ([`backend/package.json`](backend/package.json))
+- **Database:** PostgreSQL (latest)
 - **Reverse Proxy:** Nginx with TLS ([`infrastructure/nginx/nginx.conf`](infrastructure/nginx/nginx.conf))
 - **DNS Server:** CoreDNS ([`infrastructure/coredns/Corefile`](infrastructure/coredns/Corefile))
 - **Monitoring:** Nagios ([`infrastructure/nagios/placeradar.cfg`](infrastructure/nagios/placeradar.cfg))
@@ -46,7 +46,7 @@ PlaceRadar/
 ├── backend/                 # Express.js REST API
 │   ├── src/
 │   │   ├── controllers/     # HTTP request handlers
-│   │   ├── models/          # Mongoose schemas
+│   │   ├── models/          # Sequelize models
 │   │   ├── routes/          # API route definitions
 │   │   ├── services/        # Business logic
 │   │   ├── config/          # Database & environment config
@@ -65,7 +65,7 @@ PlaceRadar/
 │   ├── coredns/             # DNS server config
 │   ├── nagios/              # Monitoring config
 │   └── ngrok/               # Tunnel config (optional)
-├── scripts/seed/            # Sample data for MongoDB
+├── scripts/seed/            # Sample data
 ├── docker-compose.yml
 └── .env.example
 ```
@@ -119,7 +119,7 @@ Edit [`.env`](.env) to configure the application. Key variables:
 
 | Variable | Default | Description |
 |----------|---------|-------------|
-| `MONGO_URI` | `mongodb://mongodb:27017/placeradar` | MongoDB connection string |
+| `DATABASE_URL` | `postgres://postgres:postgres@postgres:5432/placeradar` | PostgreSQL connection string |
 | `NGROK_AUTH_TOKEN` | - | Ngrok authentication (optional) |
 
 The backend reads configuration from [`backend/src/config/env.js`](backend/src/config/env.js).
@@ -154,27 +154,14 @@ docker compose down -v          # Stop and remove volumes
 
 ## Seeding Sample Data
 
-Pre-populate MongoDB with sample locations:
-
-```bash
-# With MongoDB running via Docker
-docker exec -i MongoDB mongoimport \
-  --db placeradar \
-  --collection locations \
-  --jsonArray < scripts/seed/locations.json
-
-# Or directly if MongoDB is accessible on localhost
-mongoimport --uri "mongodb://localhost:27017/placeradar" \
-  --collection locations \
-  --file scripts/seed/locations.json --jsonArray
-```
+Pre-populate PostgreSQL with sample locations. You can create a seed script or use a database tool to import `scripts/seed/locations.json`.
 
 ## Key Application Modules
 
 ### Backend
 | Module | Path | Description |
 |--------|------|-------------|
-| Location Model | [`backend/src/models/Location.js`](backend/src/models/Location.js) | Mongoose schema for workspace locations |
+| Location Model | [`backend/src/models/Location.js`](backend/src/models/Location.js) | Sequelize model for workspace locations |
 | Location Service | [`backend/src/services/locations.service.js`](backend/src/services/locations.service.js) | CRUD business logic |
 | Location Controller | [`backend/src/controllers/locations.controller.js`](backend/src/controllers/locations.controller.js) | HTTP request handlers |
 | Routes | [`backend/src/routes/locations.routes.js`](backend/src/routes/locations.routes.js) | API endpoint definitions |

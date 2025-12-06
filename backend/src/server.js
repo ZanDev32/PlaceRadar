@@ -1,5 +1,5 @@
 const app = require('./app');
-const connectDB = require('./config/db');
+const { connectDB } = require('./config/db');
 const env = require('./config/env');
 
 const PORT = env.PORT || 3000;
