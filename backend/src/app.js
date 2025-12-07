@@ -10,6 +10,10 @@ app.use(cors());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
+app.get('/api', (req, res) => {
+    res.status(200).send('Message from PlaceRadar Back-End using API');
+});
+
 app.use('/api/locations', locationsRoutes);
 
 app.get('/health', (req, res) => {

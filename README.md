@@ -150,6 +150,7 @@ docker compose up -d --build    # Build and start all services
 docker compose logs -f          # Follow logs
 docker compose down             # Stop all services
 docker compose down -v          # Stop and remove volumes
+docker compose up -d --scale nagios=0 --scale ngrok=0 # Build and start all services except NagiOS and Ngrok
 ```
 
 ## Seeding Sample Data
