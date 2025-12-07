@@ -66,6 +66,9 @@ services:
     container_name: NagiOS
     environment:
       - NAGIOS_FQDN=${NAGIOS_FQDN}
+      - PG_DB=${POSTGRES_DB}
+      - PG_USER=${POSTGRES_USER}
+      - PG_PASS=${POSTGRES_PASSWORD}
       - NAGIOS_TIMEZONE=${NAGIOS_TIMEZONE}
     volumes:
       - ./infrastructure/nagios:/opt/nagios/etc/conf.d:ro
