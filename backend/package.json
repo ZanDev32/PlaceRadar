@@ -1,12 +1,13 @@
 {
   "name": "placeradar-backend",
   "version": "1.0.0",
-  "description": "Backend for the PlaceRadar application, a platform for students and remote workers who looking for productive place.",
+  "description": "Backend for the PlaceRadar application, a platform for students and remote workers who are looking for productive place.",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
     "dev": "nodemon src/server.js",
-    "test": "jest"
+    "test": "jest",
+    "seed:locations": "node src/seed/seedLocations.js"
   },
   "dependencies": {
     "express": "^5.2.1",

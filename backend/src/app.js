@@ -14,7 +14,7 @@ app.get('/api', (req, res) => {
     res.status(200).send('Message from PlaceRadar Back-End using API');
 });
 
-app.use('/api/locations', locationsRoutes);
+app.use('/api/place', locationsRoutes);
 
 app.get('/health', (req, res) => {
     res.status(200).send('API is running');

@@ -1,7 +1,7 @@
 {
   "name": "placeradar-frontend",
   "version": "1.0.0",
-  "description": "Frontend for the PlaceRadar application, a platform for students and remote workers who looking for productive place.",
+  "description": "Frontend for the PlaceRadar application, a platform for students and remote workers who are looking for productive place.",
   "main": "src/main.jsx",
   "scripts": {
     "dev": "vite",          

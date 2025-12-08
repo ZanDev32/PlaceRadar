@@ -8,7 +8,7 @@ const useApi = () => {
     const fetchLocations = useCallback(async () => {
         setLoading(true);
         try {
-            const response = await axios.get('http://localhost:3000/api/locations');
+            const response = await axios.get('/api/place');
             return response.data;
         } catch (err) {
             setError(err?.message || 'An error occurred');
@@ -21,7 +21,7 @@ const useApi = () => {
     const fetchLocationDetails = useCallback(async (id) => {
         setLoading(true);
         try {
-            const response = await axios.get(`http://localhost:3000/api/locations/${id}`);
+            const response = await axios.get(`/api/place/${id}`);
             return response.data;
         } catch (err) {
             setError(err?.message || 'An error occurred');

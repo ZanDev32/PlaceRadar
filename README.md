@@ -106,7 +106,7 @@ The application uses `placeradar.lvh.me` as the development domain. This is a "m
 |---------|-----|-------|
 | **Frontend (HTTPS)** | https://placeradar.lvh.me | Accept self-signed cert warning |
 | **Frontend (HTTP)** | http://placeradar.lvh.me | Redirects to HTTPS |
-| **API** | https://placeradar.lvh.me/api/locations | REST endpoints |
+| **API** | https://placeradar.lvh.me/api/place | REST endpoints |
 | **Nagios** | http://localhost:8080 | Monitoring dashboard |
 
 ### Alternative Access Methods
@@ -155,7 +155,14 @@ docker compose up -d --scale nagios=0 --scale ngrok=0 # Build and start all serv
 
 ## Seeding Sample Data
 
-Pre-populate PostgreSQL with sample locations. You can create a seed script or use a database tool to import `scripts/seed/locations.json`.
+Pre-populate PostgreSQL with sample locations:
+
+```bash
+cd backend
+npm run seed:locations
+```
+
+Behavior: validates the JSON file strictly (fails on first error), upserts by `id`/`google_place_id`, and deletes any `Location` rows not present in `scripts/seed/locations.json` (sync mode).
 
 ## Key Application Modules
 
