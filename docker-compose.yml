@@ -27,7 +27,7 @@ services:
       - placeradar-network
 
   postgres:
-    image: postgis/postgis:18-3.6-alpine
+    image: imresamu/postgis
     container_name: PostgreSQL
     environment:
       POSTGRES_USER: ${POSTGRES_USER}
