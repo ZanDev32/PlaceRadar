@@ -27,7 +27,7 @@ services:
       - placeradar-network
 
   postgres:
-    image: imresamu/postgis
+    image: imresamu/postgis:latest
     container_name: PostgreSQL
     environment:
       POSTGRES_USER: ${POSTGRES_USER}
@@ -108,7 +108,7 @@ services:
     depends_on:
       - nginx
     environment:
-      - NGROK_AUTHTOKEN=${NGROK_AUTH_TOKEN:-your_ngrok_auth_token}
+      - AUTH_TOKEN=${NGROK_AUTH_TOKEN}
       - NGROK_CONFIG=/etc/ngrok.yml
     command:
       - start
