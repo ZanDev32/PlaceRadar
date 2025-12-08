@@ -162,7 +162,13 @@ cd backend
 npm run seed:locations
 ```
 
-Behavior: validates the JSON file strictly (fails on first error), upserts by `id`/`google_place_id`, and deletes any `Location` rows not present in `scripts/seed/locations.json` (sync mode).
+Notes and troubleshooting:
+- The seeder is **fail-fast**: it validates the JSON and stops on the first error.
+- It runs in **sync mode**: upserts rows from `scripts/seed/locations.json` and deletes any `Location` rows not in the file.
+- DB connection:
+   - In Docker, ensure the postgres container is running (e.g., `docker compose up -d postgres` or the full stack). The hostname `postgres` must resolve inside the network.
+   - Outside Docker/local DB, set `DATABASE_URL` in `backend/.env` to your local instance, e.g. `postgres://user:pass@localhost:5432/placeradar`, then rerun `npm run seed:locations`.
+
 
 ## Key Application Modules
 
