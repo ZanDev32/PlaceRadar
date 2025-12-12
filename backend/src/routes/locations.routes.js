@@ -5,12 +5,20 @@ const {
 	createLocation,
 	updateLocation,
 	deleteLocation,
+    getNearbyLocations,
+	getLocationMaps,
 } = require('../controllers/locations.controller');
 
 const router = express.Router();
 
 // Route to get all locations
 router.get('/', getAllLocations);
+
+// Route to get nearby locations
+router.get('/nearby', getNearbyLocations);
+
+// Route to get map URLs for a location
+router.get('/:id/maps', getLocationMaps);
 
 // Route to get a location by ID
 router.get('/:id', getLocationById);

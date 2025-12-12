@@ -129,6 +129,22 @@ async function main() {
     const updatedCount = seedData.length - insertedCount;
 
     console.log(`Seeding complete: inserted=${insertedCount}, updated=${updatedCount}, deleted=${deletedCount}`);
+
+    // Backfill Geometry column
+    try {
+        await sequelize.query(`
+            UPDATE "Locations"
+            SET location = ST_SetSRID(ST_MakePoint(
+                (coordinates->>'lng')::float, 
+                (coordinates->>'lat')::float
+            ), 4326)
+            WHERE coordinates IS NOT NULL;
+        `);
+        console.log('Location geometry updated.');
+    } catch (err) {
+        console.error('Failed to update location geometry:', err);
+    }
+
     process.exit(0);
   } catch (error) {
     await transaction.rollback();

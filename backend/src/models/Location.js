@@ -22,12 +22,15 @@ const Location = sequelize.define('Location', {
     },
     coordinates: {
         type: DataTypes.JSONB,
+        allowNull: false,
+    },
+    location: {
+        type: DataTypes.GEOMETRY('POINT', 4326),
         allowNull: true,
-        defaultValue: null,
     },
     google_place_id: {
         type: DataTypes.STRING,
-        allowNull: true,
+        allowNull: false,
         unique: true,
     },
     images: {
@@ -61,8 +64,8 @@ const Location = sequelize.define('Location', {
     },
     facilities: {
         type: DataTypes.JSONB,
-        allowNull: true,
-        defaultValue: null,
+        allowNull: false,
+        defaultValue: {},
     },
     is_24_hours: {
         type: DataTypes.BOOLEAN,
@@ -81,8 +84,8 @@ const Location = sequelize.define('Location', {
     },
     rating_average: {
         type: DataTypes.FLOAT,
-        allowNull: true,
-        defaultValue: null,
+        allowNull: false,
+        defaultValue: 0,
     },
     review_count: {
         type: DataTypes.INTEGER,

@@ -1,4 +1,6 @@
 const Location = require('../models/Location');
+const { sequelize } = require('../config/db');
+const { QueryTypes } = require('sequelize');
 
 const getAllLocations = async () => {
     return Location.findAll();
@@ -29,10 +31,34 @@ const deleteLocation = async (id) => {
     return null;
 };
 
+const getLocationsWithinRadius = async (lat, lng, radiusInMeters) => {
+    const query = `
+        SELECT *,
+               ST_DistanceSphere(location, ST_SetSRID(ST_MakePoint($lng, $lat), 4326)) as distance_meters
+        FROM "Locations"
+        WHERE ST_DWithin(
+            location::geography,
+            ST_SetSRID(ST_MakePoint($lng, $lat), 4326)::geography,
+            $radius
+        )
+        ORDER BY distance_meters ASC;
+    `;
+
+    const locations = await sequelize.query(query, {
+        bind: { lat, lng, radius: radiusInMeters },
+        type: QueryTypes.SELECT,
+        model: Location,
+        mapToModel: true 
+    });
+
+    return locations;
+};
+
 module.exports = {
     getAllLocations,
     getLocationById,
     createLocation,
     updateLocation,
     deleteLocation,
+    getLocationsWithinRadius,
 };
