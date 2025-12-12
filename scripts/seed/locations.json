@@ -20,7 +20,7 @@
             "currency": "IDR"
         },
         "wifi_speed_mbps": 100,
-        "power_outlets_count": 10,
+        "outlet_per_table": 10,
         "noise_level": 2,
         "facilities": {
             "pet_friendly": false,
@@ -33,7 +33,6 @@
             "private_table": true,
             "prayer_room": false
         },
-        "is_24_hours": false,
         "opening_hours": {
             "weekday": "08:00 - 22:00",
             "weekend": "08:00 - 22:00"
@@ -69,7 +68,7 @@
             "currency": "IDR"
         },
         "wifi_speed_mbps": 200,
-        "power_outlets_count": 20,
+        "outlet_per_table": 20,
         "noise_level": 3,
         "facilities": {
             "pet_friendly": false,
@@ -118,7 +117,7 @@
             "currency": "IDR"
         },
         "wifi_speed_mbps": 50,
-        "power_outlets_count": 5,
+        "outlet_per_table": 5,
         "noise_level": 1,
         "facilities": {
             "pet_friendly": false,
@@ -167,7 +166,7 @@
             "currency": "IDR"
         },
         "wifi_speed_mbps": 75,
-        "power_outlets_count": 8,
+        "outlet_per_table": 8,
         "noise_level": 3,
         "facilities": {
             "pet_friendly": true,
@@ -216,7 +215,7 @@
             "currency": "IDR"
         },
         "wifi_speed_mbps": 150,
-        "power_outlets_count": 15,
+        "outlet_per_table": 15,
         "noise_level": 2,
         "facilities": {
             "pet_friendly": false,

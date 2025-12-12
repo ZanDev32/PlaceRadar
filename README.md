@@ -100,18 +100,15 @@ PlaceRadar/
 
 ## Accessing the Application
 
-The application uses `placeradar.lvh.me` as the development domain. This is a "magic" domain that automatically resolves to `127.0.0.1` on any OS without configuration.
+The main address for the app is `placeradar.lvh.me` (recommended). This is a "magic" domain that automatically resolves to `127.0.0.1` on any OS without configuration.
 
 | Service | URL | Notes |
 |---------|-----|-------|
 | **Frontend (HTTPS)** | https://placeradar.lvh.me | Accept self-signed cert warning |
 | **Frontend (HTTP)** | http://placeradar.lvh.me | Redirects to HTTPS |
 | **API** | https://placeradar.lvh.me/api/place | REST endpoints |
-| **Nagios** | http://localhost:8080 | Monitoring dashboard |
-
-### Alternative Access Methods
-- **localhost:** https://localhost (same self-signed cert)
-- **Custom domain:** Configure your OS DNS to use `127.0.0.1` to resolve `placeradar.lvh.me` via CoreDNS
+| **Nagios** | https://placeradar.lvh.me/nagios | Monitoring dashboard |
+| **pgAdmin** | https://placeradar.lvh.me/pgadmin | Database UI |
 
 ## Environment Configuration
 
@@ -120,9 +117,37 @@ Edit [`.env`](.env) to configure the application. Key variables:
 | Variable | Default | Description |
 |----------|---------|-------------|
 | `DATABASE_URL` | `postgres://postgres:postgres@postgres:5432/placeradar` | PostgreSQL connection string |
+| `POSTGRES_USER` | `postgres` | PostgreSQL user created on first init |
+| `POSTGRES_PASSWORD` | `postgres` | PostgreSQL password created on first init |
+| `POSTGRES_DB` | `placeradar` | PostgreSQL database created on first init |
+| `PGADMIN_DEFAULT_EMAIL` | `admin@placeradar.com` | Initial pgAdmin login (first init only) |
+| `PGADMIN_DEFAULT_PASSWORD` | `admin123` | Initial pgAdmin password (first init only) |
+| `NAGIOS_USERNAME` | `nagiosadmin` | Nagios web UI username |
+| `NAGIOS_PASSWORD` | `admin123` | Nagios web UI password |
 | `NGROK_AUTH_TOKEN` | - | Ngrok authentication (optional) |
 
 The backend reads configuration from [`backend/src/config/env.js`](backend/src/config/env.js).
+
+### Credentials persistence (important)
+
+PostgreSQL and pgAdmin both store credentials in Docker volumes on first initialization.
+Changing `.env` values later will update container environment variables, but it will **not** automatically rewrite existing users/passwords.
+
+- **pgAdmin:** `PGADMIN_DEFAULT_EMAIL/PGADMIN_DEFAULT_PASSWORD` only apply on first init.
+   - To change the credential without deleting data:
+      ```bash
+      docker compose stop pgadmin
+      docker compose rm -f pgadmin
+      docker volume rm placeradar_pgadmin-data
+      docker compose up -d pgadmin
+      ```
+- **PostgreSQL:** `POSTGRES_USER/POSTGRES_PASSWORD` only applies on first init.
+   - To change the credential without deleting data:
+      ```bash
+      docker compose stop postgres
+      docker compose rm -f postgres
+      docker compose up -d postgres
+      ```
 
 ## Development Workflow
 
@@ -158,8 +183,7 @@ docker compose up -d --scale nagios=0 --scale ngrok=0 # Build and start all serv
 Pre-populate PostgreSQL with sample locations:
 
 ```bash
-cd backend
-npm run seed:locations
+docker exec -it ExpressJS npm run seed:locations
 ```
 
 Notes and troubleshooting:
@@ -173,6 +197,7 @@ Notes and troubleshooting:
 ## Key Application Modules
 
 ### Backend
+
 | Module | Path | Description |
 |--------|------|-------------|
 | Location Model | [`backend/src/models/Location.js`](backend/src/models/Location.js) | Sequelize model for workspace locations |
@@ -206,7 +231,7 @@ api.placeradar.lvh.me → 127.0.0.1
 To use CoreDNS, set your OS DNS server to `127.0.0.1`.
 
 ### Nagios
-Monitors service health. Access at http://localhost:8080
+Monitors service health. Access at https://placeradar.lvh.me/nagios
 
 ### Ngrok (Optional)
 Expose local development externally. Uncomment the ngrok service in `docker-compose.yml` and set `NGROK_AUTH_TOKEN` in `.env`.
