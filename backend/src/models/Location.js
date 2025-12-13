@@ -52,12 +52,17 @@ const Location = sequelize.define('Location', {
         allowNull: true,
         defaultValue: null,
     },
-    power_outlets_count: {
-        type: DataTypes.INTEGER,
+    outlet_per_table: {
+        type: DataTypes.DECIMAL(6, 2),
         allowNull: true,
         defaultValue: null,
     },
     noise_level: {
+        type: DataTypes.INTEGER,
+        allowNull: true,
+        defaultValue: null,
+    },
+    productivity_score: {
         type: DataTypes.INTEGER,
         allowNull: true,
         defaultValue: null,

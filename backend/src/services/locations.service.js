@@ -10,12 +10,19 @@ const getLocationById = async (id) => {
     return Location.findByPk(id);
 };
 
+const sanitizeLocationInput = (locationData) => {
+    if (!locationData || typeof locationData !== 'object') return locationData;
+    // productivity_score is a GENERATED column in Postgres; writes should be ignored.
+    const { productivity_score, ...sanitized } = locationData;
+    return sanitized;
+};
+
 const createLocation = async (locationData) => {
-    return Location.create(locationData);
+    return Location.create(sanitizeLocationInput(locationData));
 };
 
 const updateLocation = async (id, locationData) => {
-    const [updatedRows, [updatedLocation]] = await Location.update(locationData, {
+    const [updatedRows, [updatedLocation]] = await Location.update(sanitizeLocationInput(locationData), {
         where: { id },
         returning: true,
     });

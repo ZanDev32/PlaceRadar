@@ -33,6 +33,33 @@ body {
     margin: 0;
 }
 
+.locations {
+    width: min(900px, 100%);
+    text-align: left;
+}
+
+.locations_list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 0.75rem;
+}
+
+.locations_item {
+    padding: 0.75rem 1rem;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.65);
+}
+
+.locations_name {
+    font-weight: 700;
+}
+
+.locations_score {
+    margin-top: 0.25rem;
+}
+
 footer {
     text-align: center;
     padding: 15px 0;

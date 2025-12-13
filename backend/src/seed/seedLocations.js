@@ -16,7 +16,7 @@ const UPDATE_FIELDS = [
   'type',
   'pricing_min_spend',
   'wifi_speed_mbps',
-  'power_outlets_count',
+  'outlet_per_table',
   'noise_level',
   'facilities',
   'is_24_hours',
@@ -27,6 +27,8 @@ const UPDATE_FIELDS = [
   'save_count',
   'like_count',
 ];
+
+const INSERT_FIELDS = ['id', ...UPDATE_FIELDS];
 
 const isObject = (val) => val !== null && typeof val === 'object' && !Array.isArray(val);
 
@@ -60,7 +62,7 @@ function validateRecord(record, index) {
 
   const numberFields = [
     'wifi_speed_mbps',
-    'power_outlets_count',
+    'outlet_per_table',
     'noise_level',
     'rating_average',
     'review_count',
@@ -113,6 +115,7 @@ async function main() {
     const existingIdSet = new Set(existingIds.map((row) => row.id));
 
     await Location.bulkCreate(seedData, {
+      fields: INSERT_FIELDS,
       updateOnDuplicate: UPDATE_FIELDS,
       returning: true,
       transaction,
