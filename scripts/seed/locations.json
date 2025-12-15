@@ -1,0 +1,246 @@
+[
+    {
+        "id": "d7c9c9c8-ef1e-4b5b-94a6-4d8f19d0c0a1",
+        "name": "Cafe A",
+        "description": "A quiet cafe perfect for studying with ample power outlets.",
+        "address": "123 Coffee St, Sleman, Yogyakarta",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "placeradar-cafe-a",
+        "images": [
+            "https://placeradar-bucket/cafe-a-main.jpg",
+            "https://placeradar-bucket/cafe-a-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 30000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 100,
+        "outlet_per_table": 10,
+        "noise_level": 2,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": false,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": true,
+            "prayer_room": false
+        },
+        "opening_hours": {
+            "weekday": "08:00 - 22:00",
+            "weekend": "08:00 - 22:00"
+        },
+        "social_media": {
+            "instagram": "https://instagram.com/placeradar_cafe_a",
+            "tiktok": "https://www.tiktok.com/@placeradar_cafe_a",
+            "x": "https://x.com/placeradar_cafe_a"
+        },
+        "rating_average": 4.0,
+        "review_count": 24,
+        "save_count": 10,
+        "like_count": 15
+    },
+    {
+        "id": "0f1b4b87-a3f5-4c1d-8ed9-0b8a9d1c2e3f",
+        "name": "Co-Working Space B",
+        "description": "A vibrant co-working space with a collaborative atmosphere.",
+        "address": "456 Work Ave, Sleman, Yogyakarta",
+        "coordinates": {
+            "lat": -7.7965,
+            "lng": 110.3705
+        },
+        "google_place_id": "placeradar-cowork-b",
+        "images": [
+            "https://placeradar-bucket/space-b-main.jpg",
+            "https://placeradar-bucket/space-b-interior.jpg"
+        ],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 50000,
+            "unit": "day",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 200,
+        "outlet_per_table": 20,
+        "noise_level": 3,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": false,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": true,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": true,
+            "prayer_room": true
+        },
+        "is_24_hours": false,
+        "opening_hours": {
+            "weekday": "08:00 - 22:00",
+            "weekend": "10:00 - 20:00"
+        },
+        "social_media": {
+            "instagram": "https://instagram.com/placeradar_cowork_b",
+            "tiktok": "https://www.tiktok.com/@placeradar_cowork_b",
+            "x": "https://x.com/placeradar_cowork_b"
+        },
+        "rating_average": 4.5,
+        "review_count": 120,
+        "save_count": 50,
+        "like_count": 34
+    },
+    {
+        "id": "8c2d7f62-2c42-4b67-9c5a-0c1a5f90b123",
+        "name": "Library C",
+        "description": "A serene library ideal for focused work and study.",
+        "address": "789 Read St, Sleman, Yogyakarta",
+        "coordinates": {
+            "lat": -7.7975,
+            "lng": 110.3685
+        },
+        "google_place_id": "placeradar-library-c",
+        "images": [
+            "https://placeradar-bucket/library-c-main.jpg",
+            "https://placeradar-bucket/library-c-study.jpg"
+        ],
+        "type": "Library",
+        "pricing_min_spend": {
+            "amount": 0,
+            "unit": "day",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 50,
+        "outlet_per_table": 5,
+        "noise_level": 1,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": false,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": false,
+            "meals_available": false,
+            "private_table": true,
+            "prayer_room": true
+        },
+        "is_24_hours": false,
+        "opening_hours": {
+            "weekday": "08:00 - 20:00",
+            "weekend": "09:00 - 18:00"
+        },
+        "social_media": {
+            "instagram": "https://instagram.com/placeradar_library_c",
+            "tiktok": "https://www.tiktok.com/@placeradar_library_c",
+            "x": "https://x.com/placeradar_library_c"
+        },
+        "rating_average": 3.5,
+        "review_count": 40,
+        "save_count": 18,
+        "like_count": 12
+    },
+    {
+        "id": "1a4b6c78-5d12-4e9f-8e21-7c5d3a2b1f90",
+        "name": "Cafe D",
+        "description": "A cozy cafe with a relaxed vibe and good coffee.",
+        "address": "321 Brew Rd, Sleman, Yogyakarta",
+        "coordinates": {
+            "lat": -7.7945,
+            "lng": 110.3715
+        },
+        "google_place_id": "placeradar-cafe-d",
+        "images": [
+            "https://placeradar-bucket/cafe-d-main.jpg",
+            "https://placeradar-bucket/cafe-d-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 35000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 75,
+        "outlet_per_table": 8,
+        "noise_level": 3,
+        "facilities": {
+            "pet_friendly": true,
+            "smoking_area": false,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": false
+        },
+        "is_24_hours": false,
+        "opening_hours": {
+            "weekday": "08:00 - 22:00",
+            "weekend": "09:00 - 22:00"
+        },
+        "social_media": {
+            "instagram": "https://instagram.com/placeradar_cafe_d",
+            "tiktok": "https://www.tiktok.com/@placeradar_cafe_d",
+            "x": "https://x.com/placeradar_cafe_d"
+        },
+        "rating_average": 4.0,
+        "review_count": 60,
+        "save_count": 22,
+        "like_count": 19
+    },
+    {
+        "id": "9f8e7d6c-5b4a-3c2d-1e0f-9a8b7c6d5e4f",
+        "name": "Study Room E",
+        "description": "A dedicated study room with a quiet environment.",
+        "address": "654 Study Ln, Sleman, Yogyakarta",
+        "coordinates": {
+            "lat": -7.7935,
+            "lng": 110.3725
+        },
+        "google_place_id": "placeradar-study-e",
+        "images": [
+            "https://placeradar-bucket/study-e-main.jpg",
+            "https://placeradar-bucket/study-e-room.jpg"
+        ],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 40000,
+            "unit": "day",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 150,
+        "outlet_per_table": 15,
+        "noise_level": 2,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": false,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": true,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": true,
+            "prayer_room": true
+        },
+        "is_24_hours": false,
+        "opening_hours": {
+            "weekday": "08:00 - 22:00",
+            "weekend": "09:00 - 21:00"
+        },
+        "social_media": {
+            "instagram": "https://instagram.com/placeradar_study_e",
+            "tiktok": "https://www.tiktok.com/@placeradar_study_e",
+            "x": "https://x.com/placeradar_study_e"
+        },
+        "rating_average": 4.5,
+        "review_count": 35,
+        "save_count": 15,
+        "like_count": 14
+    }
+]
