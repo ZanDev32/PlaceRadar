@@ -1,0 +1,4706 @@
+[
+    {
+        "id": "d7c9c9c8-ef1e-4b5b-94a6-4d8f19d0c0a1",
+        "name": "Cafe A",
+        "description": "A quiet cafe perfect for studying with ample power outlets.",
+        "address": "123 Coffee St, Sleman, Yogyakarta",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "placeradar-cafe-a",
+        "images": [
+            "https://placeradar-bucket/cafe-a-main.jpg",
+            "https://placeradar-bucket/cafe-a-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 30000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 100,
+        "outlet_per_table": 10,
+        "noise_level": 2,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": false,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": true,
+            "prayer_room": false
+        },
+        "opening_hours": {
+            "weekday": "08:00 - 22:00",
+            "weekend": "08:00 - 22:00"
+        },
+        "social_media": {
+            "instagram": "https://instagram.com/placeradar_cafe_a",
+            "tiktok": "https://www.tiktok.com/@placeradar_cafe_a",
+            "x": "https://x.com/placeradar_cafe_a"
+        },
+        "rating_average": 4.0,
+        "review_count": 24,
+        "save_count": 10,
+        "like_count": 15
+    },
+    {
+        "id": "0f1b4b87-a3f5-4c1d-8ed9-0b8a9d1c2e3f",
+        "name": "Co-Working Space B",
+        "description": "A vibrant co-working space with a collaborative atmosphere.",
+        "address": "456 Work Ave, Sleman, Yogyakarta",
+        "coordinates": {
+            "lat": -7.7965,
+            "lng": 110.3705
+        },
+        "google_place_id": "placeradar-cowork-b",
+        "images": [
+            "https://placeradar-bucket/space-b-main.jpg",
+            "https://placeradar-bucket/space-b-interior.jpg"
+        ],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 50000,
+            "unit": "day",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 200,
+        "outlet_per_table": 20,
+        "noise_level": 3,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": false,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": true,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": true,
+            "prayer_room": true
+        },
+        "is_24_hours": false,
+        "opening_hours": {
+            "weekday": "08:00 - 22:00",
+            "weekend": "10:00 - 20:00"
+        },
+        "social_media": {
+            "instagram": "https://instagram.com/placeradar_cowork_b",
+            "tiktok": "https://www.tiktok.com/@placeradar_cowork_b",
+            "x": "https://x.com/placeradar_cowork_b"
+        },
+        "rating_average": 4.5,
+        "review_count": 120,
+        "save_count": 50,
+        "like_count": 34
+    },
+    {
+        "id": "8c2d7f62-2c42-4b67-9c5a-0c1a5f90b123",
+        "name": "Library C",
+        "description": "A serene library ideal for focused work and study.",
+        "address": "789 Read St, Sleman, Yogyakarta",
+        "coordinates": {
+            "lat": -7.7975,
+            "lng": 110.3685
+        },
+        "google_place_id": "placeradar-library-c",
+        "images": [
+            "https://placeradar-bucket/library-c-main.jpg",
+            "https://placeradar-bucket/library-c-study.jpg"
+        ],
+        "type": "Library",
+        "pricing_min_spend": {
+            "amount": 0,
+            "unit": "day",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 50,
+        "outlet_per_table": 5,
+        "noise_level": 1,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": false,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": false,
+            "meals_available": false,
+            "private_table": true,
+            "prayer_room": true
+        },
+        "is_24_hours": false,
+        "opening_hours": {
+            "weekday": "08:00 - 20:00",
+            "weekend": "09:00 - 18:00"
+        },
+        "social_media": {
+            "instagram": "https://instagram.com/placeradar_library_c",
+            "tiktok": "https://www.tiktok.com/@placeradar_library_c",
+            "x": "https://x.com/placeradar_library_c"
+        },
+        "rating_average": 3.5,
+        "review_count": 40,
+        "save_count": 18,
+        "like_count": 12
+    },
+    {
+        "id": "1a4b6c78-5d12-4e9f-8e21-7c5d3a2b1f90",
+        "name": "Cafe D",
+        "description": "A cozy cafe with a relaxed vibe and good coffee.",
+        "address": "321 Brew Rd, Sleman, Yogyakarta",
+        "coordinates": {
+            "lat": -7.7945,
+            "lng": 110.3715
+        },
+        "google_place_id": "placeradar-cafe-d",
+        "images": [
+            "https://placeradar-bucket/cafe-d-main.jpg",
+            "https://placeradar-bucket/cafe-d-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 35000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 75,
+        "outlet_per_table": 8,
+        "noise_level": 3,
+        "facilities": {
+            "pet_friendly": true,
+            "smoking_area": false,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": false
+        },
+        "is_24_hours": false,
+        "opening_hours": {
+            "weekday": "08:00 - 22:00",
+            "weekend": "09:00 - 22:00"
+        },
+        "social_media": {
+            "instagram": "https://instagram.com/placeradar_cafe_d",
+            "tiktok": "https://www.tiktok.com/@placeradar_cafe_d",
+            "x": "https://x.com/placeradar_cafe_d"
+        },
+        "rating_average": 4.0,
+        "review_count": 60,
+        "save_count": 22,
+        "like_count": 19
+    },
+    {
+        "id": "9f8e7d6c-5b4a-3c2d-1e0f-9a8b7c6d5e4f",
+        "name": "Study Room E",
+        "description": "A dedicated study room with a quiet environment.",
+        "address": "654 Study Ln, Sleman, Yogyakarta",
+        "coordinates": {
+            "lat": -7.7935,
+            "lng": 110.3725
+        },
+        "google_place_id": "placeradar-study-e",
+        "images": [
+            "https://placeradar-bucket/study-e-main.jpg",
+            "https://placeradar-bucket/study-e-room.jpg"
+        ],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 40000,
+            "unit": "day",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 150,
+        "outlet_per_table": 15,
+        "noise_level": 2,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": false,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": true,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": true,
+            "prayer_room": true
+        },
+        "is_24_hours": false,
+        "opening_hours": {
+            "weekday": "08:00 - 22:00",
+            "weekend": "09:00 - 21:00"
+        },
+        "social_media": {
+            "instagram": "https://instagram.com/placeradar_study_e",
+            "tiktok": "https://www.tiktok.com/@placeradar_study_e",
+            "x": "https://x.com/placeradar_study_e"
+        },
+        "rating_average": 4.5,
+        "review_count": 35,
+        "save_count": 15,
+        "like_count": 14
+    },
+    {
+        "id": "7b7c2625-452f-4b7e-bb56-cd166c035ad0",
+        "name": "Kolektif",
+        "description": "1. Tempat nyaman, buat nugas juga sangat nyaman, minuman dan cemilan nya enakkk, pelayanannya ramah dan baik, tempat selalu bersih, musik nya tidak begitu keras jadi tidak menganggu aktivitas 2.Suasananya nyaman, bersih, dan memiliki interior yang estetik sehingga membuat betah berlama-lama. Musiknya diputar dengan volume yang pas dan cocok untuk ngobrol, mengerjakan tugas, ataupun sekadar bersantai.  3. tempatnya luas, bersih, dan sangat nyaman untuk meeting baik indoor maupun outdoor, pilihan tempatnya pun banyak karna ada 2 lantai",
+        "address": "Jl. Watugede No.58, Wonorejo, Sariharjo",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Kolektif+Coworking+Space+%26+Collaboraction/@-7.7323772,110.3789224,17z/data=!3m1!4b1!4m15!1m8!3m7!1s0x2e7a596687d6821d:0x7917dc875e8b3a9f!2sKolektif+Coworking+Space+%26+Collaboraction!8m2!3d-7.7323772!4d110.3814973!10e1!16s%2Fg%2F11gtdmn5kh!3m5!1s0x2e7a596687d6821d:0x7917dc875e8b3a9f!8m2!3d-7.7323772!4d110.3814973!16s%2Fg%2F11gtdmn5kh?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/kolektif-main.jpg",
+            "https://placeradar-bucket/kolektif-interior.jpg"
+        ],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 50000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 32,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": true,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/kolektif.id/",
+            "tiktok": "https://www.tiktok.com/@placeradar_kolektif",
+            "x": "https://x.com/placeradar_kolektif"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "3dbf2bf8-8073-4dd1-a54f-93e4beb75308",
+        "name": "Estuary Cafe",
+        "description": "1. makanannya enak2, kopinya juga. Harganya gak terlalu harga mahasiswa sih 2.Setiap sudutnya aesthetic ya, lokasinya agak masuk gang namun nilai plusnya jadi ga bising dengan kendaraan di jalan raya.Suasana tenang banget, bikin nyaman untuk berlama ngobrol dengan teman nongki.Ada 2 ruangan meeting juga, lengkap dengan meja besarnya. 3.Parkirannya luas, big plus buat yang bawa mobil. Indoor area comfy banget, kalau outdoor lebih santai, cuma sayang colokan agak terbatas di luar.",
+        "address": "Gang Code 3, Karangjati Wetan, No.170 C",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Estuary+Caf%C3%A9/@-7.7634358,110.3698101,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a592453113ae7:0xc92fb44d034ddd57!8m2!3d-7.7634358!4d110.3698101!16s%2Fg%2F11g1kn1g2n?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/estuary-cafe-main.jpg",
+            "https://placeradar-bucket/estuary-cafe-interior.jpg"
+        ],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 40,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": true,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": true,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/estuary.id?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+            "tiktok": "https://www.tiktok.com/@placeradar_estuary-cafe",
+            "x": "https://x.com/placeradar_estuary-cafe"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "0baa66cc-c29a-4859-a3cd-561bc5eb5590",
+        "name": "Kemari Coffee & Space",
+        "description": "No description provided.",
+        "address": "Gg. Pandega Mandala No.3b, Manggung",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Kemari+Coffee+%26+space+jakal/@-7.7584801,110.3828046,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59b490472373:0xd4be000351d08286!8m2!3d-7.7584801!4d110.3828046!16s%2Fg%2F11kmqx4tnh?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/kemari-coffee-&-space-main.jpg",
+            "https://placeradar-bucket/kemari-coffee-&-space-interior.jpg"
+        ],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 30,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "08:00-23:00",
+            "weekend": "08:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/kemari.coffee?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+            "tiktok": "https://www.tiktok.com/@placeradar_kemari-coffee-&-space",
+            "x": "https://x.com/placeradar_kemari-coffee-&-space"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "9cbb715b-1490-4925-a1b0-d8ce22dd22e2",
+        "name": "Eplus.Co",
+        "description": "No description provided.",
+        "address": "Jl. Candi Gebang, Jetis, Wedomartani",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/eplus.co+coffee+%26+coworking/@-7.7488087,110.4117486,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a597f01e9d807:0x30ce071264dba37e!8m2!3d-7.7488087!4d110.4117486!16s%2Fg%2F11g19234wk?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/eplus.co-main.jpg",
+            "https://placeradar-bucket/eplus.co-interior.jpg"
+        ],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 20,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-00:00",
+            "weekend": "09:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/eplusdotco/?utm_source=ig_web_button_share_sheet",
+            "tiktok": "https://www.tiktok.com/@placeradar_eplus.co",
+            "x": "https://x.com/placeradar_eplus.co"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "9cbab7c0-e788-4e17-b4ff-d357464cfc1b",
+        "name": "Ruminate",
+        "description": "No description provided.",
+        "address": "Jl. Lempongsari No.111, Sumberan, Sariharjo",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/RUMINATE+Coffee+%26+Roastery/@-7.7506553,110.3734845,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59d0d914d771:0x53727badddef1c06!8m2!3d-7.7506553!4d110.3734845!16s%2Fg%2F11hz7dqwl2?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/ruminate-main.jpg",
+            "https://placeradar-bucket/ruminate-interior.jpg"
+        ],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 35,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "08:00-00:00",
+            "weekend": "08:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/kemari.coffee?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+            "tiktok": "https://www.tiktok.com/@placeradar_ruminate",
+            "x": "https://x.com/placeradar_ruminate"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "5949d8a0-e103-4451-9fe3-097546173193",
+        "name": "Antologi",
+        "description": "No description provided.",
+        "address": "Tawangsari CT II Gg. Gayamsari II No.9C",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Antologi+Collaboractive+Space/@-7.7642123,110.3830378,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59ac1d650ef1:0x7279c85b14ff07b2!8m2!3d-7.7642123!4d110.3830378!16s%2Fg%2F11c76539j8?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/antologi-main.jpg",
+            "https://placeradar-bucket/antologi-interior.jpg"
+        ],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 40,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "07:00-22:00",
+            "weekend": "07:00-22:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/eplusdotco/?utm_source=ig_web_button_share_sheet",
+            "tiktok": "https://www.tiktok.com/@placeradar_antologi",
+            "x": "https://x.com/placeradar_antologi"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "7552966e-918e-4188-abc1-f6f9d0574385",
+        "name": "Homi Coffee & Space",
+        "description": "No description provided.",
+        "address": "Jl. Kenari No.7, Demangan Baru",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Homi+Coffee+And+Space/@-7.7783299,110.3937611,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59c6891c192d:0x8b860204f7c6d478!8m2!3d-7.7783299!4d110.3937611!16s%2Fg%2F11ggrql45z?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/homi-coffee-&-space-main.jpg",
+            "https://placeradar-bucket/homi-coffee-&-space-interior.jpg"
+        ],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 50,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-00:00",
+            "weekend": "10:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/kemari.coffee?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+            "tiktok": "https://www.tiktok.com/@placeradar_homi-coffee-&-space",
+            "x": "https://x.com/placeradar_homi-coffee-&-space"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "902f4050-70d4-49b2-8bf2-b26380626841",
+        "name": "Ekologi",
+        "description": "No description provided.",
+        "address": "Jalan Gambir 4, Karang Gayam CT VIII No.139",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Ekologi+Desk+%26+Coffee/@-7.7640217,110.3889838,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59a672b1a7b7:0x82940e244a8ee9e2!8m2!3d-7.7640217!4d110.3889838!16s%2Fg%2F11g7zv0w1t?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/ekologi-main.jpg",
+            "https://placeradar-bucket/ekologi-interior.jpg"
+        ],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 30,
+        "outlet_per_table": 2,
+        "noise_level": 4,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/ekologi.id?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+            "tiktok": "https://www.tiktok.com/@placeradar_ekologi",
+            "x": "https://x.com/placeradar_ekologi"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "d84cfafb-dd50-49aa-9773-7525fabee9af",
+        "name": "Petik Merah",
+        "description": "No description provided.",
+        "address": "Jl. Cucak Rowo No.1, Demangan Baru",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Petik+Merah+Cafe+%26+Roastery/@-7.7788759,110.3937435,17z/data=!3m1!4b1!4m9!3m8!1s0x2e7a59cb20e3ae23:0xde005f5b69c865c8!5m2!4m1!1i2!8m2!3d-7.7788759!4d110.3937435!16s%2Fg%2F11h105c7vz?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/petik-merah-main.jpg",
+            "https://placeradar-bucket/petik-merah-interior.jpg"
+        ],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 40,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-02:00",
+            "weekend": "09:00-02:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/petikmerahcafe/",
+            "tiktok": "https://www.tiktok.com/@placeradar_petik-merah",
+            "x": "https://x.com/placeradar_petik-merah"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "4dd5bddd-e0ca-4345-a4b9-dd5398438e72",
+        "name": "Relasi Co-Working Space",
+        "description": "No description provided.",
+        "address": "Jl. Pogung Baru Blk. E No.34, Pogung Kidul",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Relasi+Co-Working+Space/@-7.7583999,110.3766713,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59e8d0df021b:0x9c7d5bfab2f5068b!8m2!3d-7.7583999!4d110.3766713!16s%2Fg%2F11fk1kz7tm?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/relasi-co-working-space-main.jpg",
+            "https://placeradar-bucket/relasi-co-working-space-interior.jpg"
+        ],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 40,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/relasi.coworking/",
+            "tiktok": "https://www.tiktok.com/@placeradar_relasi-co-working-space",
+            "x": "https://x.com/placeradar_relasi-co-working-space"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "fe22835f-f469-4c9b-88ad-2b83f492bf68",
+        "name": "Thttps://www.notion.souii.id/PresensiKuliahPakarMKWU",
+        "description": "No description provided.",
+        "address": "Jl. Cempaka, Manggung, Caturtunggal",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Takom+1922+Cafe+%26+Resto/@-7.7639135,110.3894264,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59ba606ba62b:0xd1794183af070cf8!8m2!3d-7.7639135!4d110.3894264!16s%2Fg%2F11sdc64d8q?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/thttps://www.notion.souii.id/presensikuliahpakarmkwu-main.jpg",
+            "https://placeradar-bucket/thttps://www.notion.souii.id/presensikuliahpakarmkwu-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 20,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-00:00",
+            "weekend": "09:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/takom1922cafe?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+            "tiktok": "https://www.tiktok.com/@placeradar_thttps://www.notion.souii.id/presensikuliahpakarmkwu",
+            "x": "https://x.com/placeradar_thttps://www.notion.souii.id/presensikuliahpakarmkwu"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "dcde51a7-d3e4-425c-8293-6527dfb40927",
+        "name": "Sunset Coffee & Eatery",
+        "description": "No description provided.",
+        "address": "Jl. Nologaten, Nologaten, Condongcatur",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Sunset+Coffee+%26+Eatery/@-7.7739888,110.4011155,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59c4b90478a7:0x4788ee88074f68ed!8m2!3d-7.7739888!4d110.4011155!16s%2Fg%2F11s5xlm9c0?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/sunset-coffee-&-eatery-main.jpg",
+            "https://placeradar-bucket/sunset-coffee-&-eatery-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 20,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "11:00-02:00",
+            "weekend": "11:00-02:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/sunset_jogja?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+            "tiktok": "https://www.tiktok.com/@placeradar_sunset-coffee-&-eatery",
+            "x": "https://x.com/placeradar_sunset-coffee-&-eatery"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "92ef06b6-0fd3-4942-a36a-aaf36536b9a2",
+        "name": "Saorsa Kopi Utara",
+        "description": "No description provided.",
+        "address": "Jl. Pamularsih No.149 A, Ngabean Wetan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Saorsa+Kopi+%5BUtara%5D/@-7.7492037,110.3934073,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59e85d1fdb2b:0xe09a39b2f11df0e9!8m2!3d-7.7492037!4d110.3959822!16s%2Fg%2F11fvc72j9v?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/saorsa-kopi-utara-main.jpg",
+            "https://placeradar-bucket/saorsa-kopi-utara-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 50,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-00:00",
+            "weekend": "10:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/takom1922cafe?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+            "tiktok": "https://www.tiktok.com/@placeradar_saorsa-kopi-utara",
+            "x": "https://x.com/placeradar_saorsa-kopi-utara"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "78fd3022-5e86-42b3-be2d-6be1e1896daf",
+        "name": "Gemati",
+        "description": "No description provided.",
+        "address": "Jl. Sidomukti, Tiyosan, Condongcatur",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Gemati+Cafe+and+Space+Yogyakarta/@-7.734873,110.3990334,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a599345b8cb15:0xa027cbb5ace0b207!8m2!3d-7.734873!4d110.3990334!16s%2Fg%2F11q_gdkq_s?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/gemati-main.jpg",
+            "https://placeradar-bucket/gemati-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-00:00",
+            "weekend": "09:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/gematicoffee_yk?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+            "tiktok": "https://www.tiktok.com/@placeradar_gemati",
+            "x": "https://x.com/placeradar_gemati"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "51ed685e-24a1-4542-9a22-0758417944b6",
+        "name": "Eastpresso",
+        "description": "No description provided.",
+        "address": "Jenengan, Maguwoharjo, Kec. Depok",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Eastpresso+Coffee+and+Space/@-7.7541473,110.4157432,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a598e3e99f73b:0x8f9dd7532eaad211!8m2!3d-7.7541473!4d110.4157432!16s%2Fg%2F11h4psdbjj?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/eastpresso-main.jpg",
+            "https://placeradar-bucket/eastpresso-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "15:00-01:00",
+            "weekend": "15:00-01:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/eastpressoyk?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+            "tiktok": "https://www.tiktok.com/@placeradar_eastpresso",
+            "x": "https://x.com/placeradar_eastpresso"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "c8c6c119-0544-48e2-ba6a-adc486719a60",
+        "name": "Koat Kopi jakal",
+        "description": "No description provided.",
+        "address": "Jalan Kaliurang Km 12, Sardonoharjo, Sleman Regency, Special Region of, Yogyakarta, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://share.google/k7DrOW8Dezcf7QjIY",
+        "images": [
+            "https://placeradar-bucket/koat-kopi-jakal-main.jpg",
+            "https://placeradar-bucket/koat-kopi-jakal-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 17,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-00:00",
+            "weekend": "10:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/koatkopi?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+            "tiktok": "https://www.tiktok.com/@placeradar_koat-kopi-jakal",
+            "x": "https://x.com/placeradar_koat-kopi-jakal"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "813c0ed3-d843-4840-89f3-0ce25bfe613a",
+        "name": "Teduh Coffee",
+        "description": "No description provided.",
+        "address": "Kledokan, Caturtunggal, Kec. Depok",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/TEDUH+COFFEE/@-7.7759366,110.4098358,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59bff99d4049:0x17f7ee09015a1eb3!8m2!3d-7.7759366!4d110.4098358!16s%2Fg%2F11fj2mlg87?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/teduh-coffee-main.jpg",
+            "https://placeradar-bucket/teduh-coffee-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 30,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-00:00",
+            "weekend": "10:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/takom1922cafe?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+            "tiktok": "https://www.tiktok.com/@placeradar_teduh-coffee",
+            "x": "https://x.com/placeradar_teduh-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "66507847-02f9-4ff3-ab13-9fcdaa55b533",
+        "name": "Carney Co",
+        "description": "No description provided.",
+        "address": "Jl. Garuni II, Kledokan, Caturtunggal",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Carney+Co/@-7.7750309,110.4098114,16.73z/data=!4m6!3m5!1s0x2e7a59e58f31ff3f:0x6285971ef452a37a!8m2!3d-7.7754467!4d110.4099001!16s%2Fg%2F11jll0vx1_?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/carney-co-main.jpg",
+            "https://placeradar-bucket/carney-co-interior.jpg"
+        ],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 30,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-01:00",
+            "weekend": "10:00-01:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/carneyofficial_id/",
+            "tiktok": "https://www.tiktok.com/@placeradar_carney-co",
+            "x": "https://x.com/placeradar_carney-co"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "ed0f0eed-2936-42e1-bfb0-bc2385a64944",
+        "name": "Le Travail",
+        "description": "No description provided.",
+        "address": "Jl. Laksda Adisucipto No.19, Demangan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Le+travail+Coffee/@-7.78306,110.388822,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59c6a3cc1847:0xaad574a6c15e4bb2!8m2!3d-7.78306!4d110.388822!16s%2Fg%2F11jl3ft4kg?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/le-travail-main.jpg",
+            "https://placeradar-bucket/le-travail-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 30,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-01:00",
+            "weekend": "09:00-01:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/letravail.idn/",
+            "tiktok": "https://www.tiktok.com/@placeradar_le-travail",
+            "x": "https://x.com/placeradar_le-travail"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "f404832f-7555-4c4b-80b9-5758ef58dd58",
+        "name": "Sorea Urban Forest",
+        "description": "No description provided.",
+        "address": "Jl. Gambir Karangasem Baru Bulaksumur, Karang Gayam",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Sorea+Urban+Forest/@-7.7662448,110.3883733,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59b33cf63ed9:0xa02ff3e1c426a66e!8m2!3d-7.7662448!4d110.3883733!16s%2Fg%2F11ss4w_sk9!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+        "images": [
+            "https://placeradar-bucket/sorea-urban-forest-main.jpg",
+            "https://placeradar-bucket/sorea-urban-forest-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 97,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/carneyofficial_id/",
+            "tiktok": "https://www.tiktok.com/@placeradar_sorea-urban-forest",
+            "x": "https://x.com/placeradar_sorea-urban-forest"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "cec6b76e-34ed-4d73-bbe2-1f028e3d6e12",
+        "name": "Tip Tap Toe",
+        "description": "No description provided.",
+        "address": "Jl. Palagan Tentara Pelajar Kelurahan http://no.km/, RW.9, Tegal Rejo, Sariharjo, Kapanewon Ngaglik",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/TIP+TAP+TOE/@-7.7260785,110.3769599,16.56z/data=!4m6!3m5!1s0x2e7a59c5d714de41:0x94fade6986fcfa63!8m2!3d-7.7263325!4d110.3809845!16s%2Fg%2F11t4ysvttb?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/tip-tap-toe-main.jpg",
+            "https://placeradar-bucket/tip-tap-toe-interior.jpg"
+        ],
+        "type": "Restaurant",
+        "pricing_min_spend": {
+            "amount": 50000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 9,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/sorea.urbanforest?igshid=ZDdkNTZiNTM%3D",
+            "tiktok": "https://www.tiktok.com/@placeradar_tip-tap-toe",
+            "x": "https://x.com/placeradar_tip-tap-toe"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "b8c45e2d-4ed9-4b80-84da-5e9319f1964d",
+        "name": "Jempolan",
+        "description": "No description provided.",
+        "address": "Jl. Sidoasih No.3A, Tiyosan, Condongcatur",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Jempolan+Coffee+%26+Eatery/@-7.7341524,110.399428,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59f110f9fdab:0x6cc2e4cea03c38e1!8m2!3d-7.7341524!4d110.399428!16s%2Fg%2F11r41m2jlb?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/jempolan-main.jpg",
+            "https://placeradar-bucket/jempolan-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 50000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 6,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/tiptaptoe.jogja/",
+            "tiktok": "https://www.tiktok.com/@placeradar_jempolan",
+            "x": "https://x.com/placeradar_jempolan"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "9fb19a85-5f91-438d-b6ac-c5f61d077423",
+        "name": "Tiga Roepa",
+        "description": "No description provided.",
+        "address": "Jl. Pandega Marta No.43, Manggung",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Tiga+Roepa+Pandega+Galeri+%26+Cafe/@-7.7551432,110.3770198,17.7z/data=!4m6!3m5!1s0x2e7a59c9b3237eb7:0xe42ee5d8a88ca2e6!8m2!3d-7.7549611!4d110.380011!16s%2Fg%2F11fwcwtx3l?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/tiga-roepa-main.jpg",
+            "https://placeradar-bucket/tiga-roepa-interior.jpg"
+        ],
+        "type": "Restaurant",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 40,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-22:00",
+            "weekend": "10:00-22:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/tigaroepa/",
+            "tiktok": "https://www.tiktok.com/@placeradar_tiga-roepa",
+            "x": "https://x.com/placeradar_tiga-roepa"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "ff3086d4-f6c7-457b-b83c-43f8f0ef6d71",
+        "name": "Esco & No. 27 Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Demangan Baru No.14, Mrican",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/ESCO+RESTAURANT+%26+NO.27+COFFEE/@-7.7747038,110.3935677,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59c77e5d4c43:0xad66e395ebc2baed!8m2!3d-7.7747038!4d110.3935677!16s%2Fg%2F11b6371rr4?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/esco-&-no.-27-coffee-main.jpg",
+            "https://placeradar-bucket/esco-&-no.-27-coffee-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "08:00-23:00",
+            "weekend": "08:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/escopark_/",
+            "tiktok": "https://www.tiktok.com/@placeradar_esco-&-no.-27-coffee",
+            "x": "https://x.com/placeradar_esco-&-no.-27-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "2f84b23c-ec3f-46b3-a656-330c8ab0cd57",
+        "name": "Lars Flagship Store",
+        "description": "No description provided.",
+        "address": "Jl. Seturan Raya No.168, Kledokan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Lars+Flagship+Store/@-7.7704781,110.4070432,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59809f2a71cd:0x366400edb7d45313!8m2!3d-7.7704781!4d110.4096181!16s%2Fg%2F11sms01hp7?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/lars-flagship-store-main.jpg",
+            "https://placeradar-bucket/lars-flagship-store-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 10,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-00:00",
+            "weekend": "09:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/larsflagship/",
+            "tiktok": "https://www.tiktok.com/@placeradar_lars-flagship-store",
+            "x": "https://x.com/placeradar_lars-flagship-store"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "ef5d6834-5aa1-4d2f-9660-9abc3e33d6b1",
+        "name": "Trilogi Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Palagan Tentara Pelajar No.8.6",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/TRILOGI+COFFEE/@-7.7229404,110.3819204,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59392eb82c13:0x51ce29f88c757607!8m2!3d-7.7229404!4d110.3819204!16s%2Fg%2F11px31m7_8?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [
+            "https://placeradar-bucket/trilogi-coffee-main.jpg",
+            "https://placeradar-bucket/trilogi-coffee-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "08:00-23:00",
+            "weekend": "08:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/trilogicoffeeid?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+            "tiktok": "https://www.tiktok.com/@placeradar_trilogi-coffee",
+            "x": "https://x.com/placeradar_trilogi-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "bd369ea3-673d-4978-a0b0-8ef280343128",
+        "name": "Kolona Kitchen & Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Palagan Tentara Pelajar No.Km.8",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/KOLONA+Kitchen+%26+Coffee/@-7.7309623,110.3792981,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a5916539b6575:0xabee670e2ee1b730!8m2!3d-7.7309623!4d110.3792981!16s%2Fg%2F11fnp4x5j_?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+        "images": [
+            "https://placeradar-bucket/kolona-kitchen-&-coffee-main.jpg",
+            "https://placeradar-bucket/kolona-kitchen-&-coffee-interior.jpg"
+        ],
+        "type": "Restaurant",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 12,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "08:00-23:00",
+            "weekend": "08:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/kolona.jogjakarta?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+            "tiktok": "https://www.tiktok.com/@placeradar_kolona-kitchen-&-coffee",
+            "x": "https://x.com/placeradar_kolona-kitchen-&-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "91abcbd3-4430-46c5-974b-0fbc0775f542",
+        "name": "Seven Stones",
+        "description": "No description provided.",
+        "address": "Karang Wuni, Caturtunggal, Kec. Depok",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Seven+Stones+Coffee+Shop/@-7.7602921,110.379575,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59d60c507825:0x768cba27d4d30a5b!8m2!3d-7.7602921!4d110.379575!16s%2Fg%2F11ghs53mmp?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+        "images": [
+            "https://placeradar-bucket/seven-stones-main.jpg",
+            "https://placeradar-bucket/seven-stones-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 12,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/7stones.yk/",
+            "tiktok": "https://www.tiktok.com/@placeradar_seven-stones",
+            "x": "https://x.com/placeradar_seven-stones"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "ba5df334-bc61-4fc2-98e5-ac5f8a67db13",
+        "name": "Epic Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Palagan Tentara Pelajar No.Km.8",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://maps.app.goo.gl/oAG2oYD1LGqFHoDfA",
+        "images": [
+            "https://placeradar-bucket/epic-coffee-main.jpg",
+            "https://placeradar-bucket/epic-coffee-interior.jpg"
+        ],
+        "type": "Restaurant",
+        "pricing_min_spend": {
+            "amount": 75000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 12,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "08:00-23:00",
+            "weekend": "08:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/epic_coffee?igsh=N2JscHM2ZjFyeTUx",
+            "tiktok": "https://www.tiktok.com/@placeradar_epic-coffee",
+            "x": "https://x.com/placeradar_epic-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "9e15c552-ecc2-4f97-a8d3-4ba697e0ffa8",
+        "name": "Temu Kamu",
+        "description": "No description provided.",
+        "address": "Jl. Laksda Adisucipto, Demangan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://maps.app.goo.gl/sbP7uqxxcyqBxXVK7",
+        "images": [
+            "https://placeradar-bucket/temu-kamu-main.jpg",
+            "https://placeradar-bucket/temu-kamu-interior.jpg"
+        ],
+        "type": "Restaurant",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 15,
+        "outlet_per_table": 2,
+        "noise_level": 4,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-00:00",
+            "weekend": "09:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/temukamu.indonesia/",
+            "tiktok": "https://www.tiktok.com/@placeradar_temu-kamu",
+            "x": "https://x.com/placeradar_temu-kamu"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "3f1411a3-b25a-49bd-a785-dcdb06ad118a",
+        "name": "Teko.Su Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Prayan Wetan, Caturtunggal",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://maps.app.goo.gl/AWrNdmFbcpcicchV9",
+        "images": [
+            "https://placeradar-bucket/teko.su-coffee-main.jpg",
+            "https://placeradar-bucket/teko.su-coffee-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "08:00-01:00",
+            "weekend": "08:00-01:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/teko.su/",
+            "tiktok": "https://www.tiktok.com/@placeradar_teko.su-coffee",
+            "x": "https://x.com/placeradar_teko.su-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "742b1fde-a161-4ed9-ab31-f2dc5b7bcdba",
+        "name": "Semuda Kopi",
+        "description": "No description provided.",
+        "address": "Jl. Raya Wedomartani, Jetis",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://maps.app.goo.gl/XV8156yQ1dJKg4n99",
+        "images": [
+            "https://placeradar-bucket/semuda-kopi-main.jpg",
+            "https://placeradar-bucket/semuda-kopi-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 20,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/semudakopi/",
+            "tiktok": "https://www.tiktok.com/@placeradar_semuda-kopi",
+            "x": "https://x.com/placeradar_semuda-kopi"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "4c5dae14-33f8-4e7c-bf8c-923edf703ead",
+        "name": "Toko Kopi Sedaya",
+        "description": "No description provided.",
+        "address": "Jl. Prayan I No. 80 C, Kaliwaru",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://maps.app.goo.gl/VhbmBnFCw9Sdvrv1A",
+        "images": [
+            "https://placeradar-bucket/toko-kopi-sedaya-main.jpg",
+            "https://placeradar-bucket/toko-kopi-sedaya-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 15,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/tokokopisedaya/",
+            "tiktok": "https://www.tiktok.com/@placeradar_toko-kopi-sedaya",
+            "x": "https://x.com/placeradar_toko-kopi-sedaya"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "1c2a40db-4aa7-4d3d-986d-0f2f6e4722b0",
+        "name": "Alayya Coffee & Resto",
+        "description": "No description provided.",
+        "address": "Jl. Garuda No. 200, Sanggrahan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://maps.app.goo.gl/uhx6ZdfLVt8uuqLz9",
+        "images": [
+            "https://placeradar-bucket/alayya-coffee-&-resto-main.jpg",
+            "https://placeradar-bucket/alayya-coffee-&-resto-interior.jpg"
+        ],
+        "type": "Restaurant",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 12,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-00:00",
+            "weekend": "09:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/alayyacafe/",
+            "tiktok": "https://www.tiktok.com/@placeradar_alayya-coffee-&-resto",
+            "x": "https://x.com/placeradar_alayya-coffee-&-resto"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "aabe4d15-f33c-4d40-9a79-9acee869acbb",
+        "name": "Cester Coffee & Co.",
+        "description": "No description provided.",
+        "address": "Gg. Megatruh No. 22, Karang Wuni",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://maps.app.goo.gl/rjN4mAMFj3BuDP3t6",
+        "images": [
+            "https://placeradar-bucket/cester-coffee-&-co.-main.jpg",
+            "https://placeradar-bucket/cester-coffee-&-co.-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 11,
+        "outlet_per_table": 2,
+        "noise_level": 4,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "13:00-00:00",
+            "weekend": "13:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/cester.cco/",
+            "tiktok": "https://www.tiktok.com/@placeradar_cester-coffee-&-co.",
+            "x": "https://x.com/placeradar_cester-coffee-&-co."
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "76893a6a-9779-4e9b-b3a9-59f66e9e8b27",
+        "name": "Sanguku_idn",
+        "description": "No description provided.",
+        "address": "Jl. Baladewa No. 5, Tambak Bayan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://maps.app.goo.gl/NFk1UFHpraiHFTSP7",
+        "images": [
+            "https://placeradar-bucket/sanguku_idn-main.jpg",
+            "https://placeradar-bucket/sanguku_idn-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 10,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "monday-Wednesday \ud83d\udd5b 15.30-23.00thursday-sunday \ud83d\udd5b 16.30-24.00\n\n",
+            "weekend": "monday-Wednesday \ud83d\udd5b 15.30-23.00thursday-sunday \ud83d\udd5b 16.30-24.00\n\n"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/sanguku_idn/?hl=id",
+            "tiktok": "https://www.tiktok.com/@placeradar_sanguku_idn",
+            "x": "https://x.com/placeradar_sanguku_idn"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "0d1e6564-91fd-4f4c-9c04-4a35633ff4ac",
+        "name": "Uptown Cafe And Space",
+        "description": "No description provided.",
+        "address": "Jl. Student Castle, Kledokan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://maps.app.goo.gl/anUnVekbVnR3kmpN7",
+        "images": [
+            "https://placeradar-bucket/uptown-cafe-and-space-main.jpg",
+            "https://placeradar-bucket/uptown-cafe-and-space-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 11,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "16:00-00:00",
+            "weekend": "16:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/uptowncafe.jogja/",
+            "tiktok": "https://www.tiktok.com/@placeradar_uptown-cafe-and-space",
+            "x": "https://x.com/placeradar_uptown-cafe-and-space"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "97673383-5d10-42dc-9dde-d7fa9ec0ca42",
+        "name": "Sebelah Kopi",
+        "description": "No description provided.",
+        "address": "Jl. Wijaya Kusuma No. 234, Dero",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://maps.app.goo.gl/N2iDaLXkcbhfHkbeA",
+        "images": [
+            "https://placeradar-bucket/sebelah-kopi-main.jpg",
+            "https://placeradar-bucket/sebelah-kopi-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 12,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-00:00",
+            "weekend": "09:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/sebelahkopi/",
+            "tiktok": "https://www.tiktok.com/@placeradar_sebelah-kopi",
+            "x": "https://x.com/placeradar_sebelah-kopi"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "403d91af-77d8-486b-bbeb-1aeec149605f",
+        "name": "Lugaru_Baru",
+        "description": "No description provided.",
+        "address": "Jl. Maskumambang No. 18, Ngabean",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://maps.app.goo.gl/t9HYcJYCAg9Mw1QZ9",
+        "images": [
+            "https://placeradar-bucket/lugaru_baru-main.jpg",
+            "https://placeradar-bucket/lugaru_baru-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 12,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "Senin - Jumat 13.00 - 23.45     Sabtu - Minggu 06.00 - 10.00 & 13.00 - 23.45",
+            "weekend": "Senin - Jumat 13.00 - 23.45     Sabtu - Minggu 06.00 - 10.00 & 13.00 - 23.45"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/lugaru_baru/",
+            "tiktok": "https://www.tiktok.com/@placeradar_lugaru_baru",
+            "x": "https://x.com/placeradar_lugaru_baru"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "79bb7b26-1114-494a-a312-87cda5a35d5a",
+        "name": "Kobessah Kopi",
+        "description": "No description provided.",
+        "address": "Jl. Anggajaya 2 No. 300, Sanggrahan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://share.google/mGAiIZps331djyIUm",
+        "images": [
+            "https://placeradar-bucket/kobessah-kopi-main.jpg",
+            "https://placeradar-bucket/kobessah-kopi-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 13,
+        "outlet_per_table": 2,
+        "noise_level": 4,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "07:00-02:00",
+            "weekend": "07:00-02:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/kobessahkopi.id/",
+            "tiktok": "https://www.tiktok.com/@placeradar_kobessah-kopi",
+            "x": "https://x.com/placeradar_kobessah-kopi"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "469e8def-9b75-4b1e-a044-e92a3213db67",
+        "name": "Kopi Sembilan",
+        "description": "No description provided.",
+        "address": "Jl. Pogung Kidul, Sinduadi",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/kopi-sembilan-main.jpg",
+            "https://placeradar-bucket/kopi-sembilan-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_kopi-sembilan",
+            "x": "https://x.com/placeradar_kopi-sembilan"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "0c133950-54d1-4fc2-97a0-03b42822047d",
+        "name": "Kopi Seek",
+        "description": "No description provided.",
+        "address": "Jl. Stadion, Karangsari, Wedomartani",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/kopi-seek-main.jpg",
+            "https://placeradar-bucket/kopi-seek-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-23:00",
+            "weekend": "10:00-23:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_kopi-seek",
+            "x": "https://x.com/placeradar_kopi-seek"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "29ca6046-a5c4-46de-a47c-1d6a2b472de7",
+        "name": "Sembari Coffee",
+        "description": "No description provided.",
+        "address": "Karang Wuni, Caturtunggal",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/sembari-coffee-main.jpg",
+            "https://placeradar-bucket/sembari-coffee-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "11:00-23:00",
+            "weekend": "11:00-23:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_sembari-coffee",
+            "x": "https://x.com/placeradar_sembari-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "e36e5c5e-a092-490b-8a8a-040623dd86ad",
+        "name": "Mantras Kopi",
+        "description": "No description provided.",
+        "address": "Jl. Sidanti Joho, Sambisari",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/mantras-kopi-main.jpg",
+            "https://placeradar-bucket/mantras-kopi-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "16:00-00:00",
+            "weekend": "16:00-00:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_mantras-kopi",
+            "x": "https://x.com/placeradar_mantras-kopi"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "18abf70e-bc57-4cb0-8b45-7d29e9885e43",
+        "name": "Eternity Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Kaliurang KM 12 Ngaglik, Candi Karang",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Eternity+Coffee/data=!4m2!3m1!1s0x2e7a594e637f5505:0xb46a5f305b8a2dc7?sa=X&ved=1t:242&ictx=111",
+        "images": [
+            "https://placeradar-bucket/eternity-coffee-main.jpg",
+            "https://placeradar-bucket/eternity-coffee-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "24 Hours",
+            "weekend": "24 Hours"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/eternity.coffee/",
+            "tiktok": "https://www.tiktok.com/@placeradar_eternity-coffee",
+            "x": "https://x.com/placeradar_eternity-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "97168172-6a3c-4ab1-b07c-424858e5dd75",
+        "name": "Nawwa Kopi",
+        "description": "No description provided.",
+        "address": "Jl. Colombo No. 30, Karang Malang",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/nawwa-kopi-main.jpg",
+            "https://placeradar-bucket/nawwa-kopi-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "24 Hours",
+            "weekend": "24 Hours"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_nawwa-kopi",
+            "x": "https://x.com/placeradar_nawwa-kopi"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "d3103ada-b76d-4b3b-beff-39c7ea1ed5ff",
+        "name": "Ethikopia Coffeebay",
+        "description": "No description provided.",
+        "address": "Karang Geneng, Sendangadi, Mlati",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/ethikopia-coffeebay-main.jpg",
+            "https://placeradar-bucket/ethikopia-coffeebay-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "24 Hours",
+            "weekend": "24 Hours"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_ethikopia-coffeebay",
+            "x": "https://x.com/placeradar_ethikopia-coffeebay"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "4539bdcb-6bf1-4bf8-bba9-9de10aabf4cd",
+        "name": "Awor Yard & Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Palagan Tentara Pelajar KM 7",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/awor-yard-&-coffee-main.jpg",
+            "https://placeradar-bucket/awor-yard-&-coffee-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "24 Hours",
+            "weekend": "24 Hours"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_awor-yard-&-coffee",
+            "x": "https://x.com/placeradar_awor-yard-&-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "b8869936-6df5-4bb9-98ae-c8fc11ef54f8",
+        "name": "Tilasawa Coffee Roaster",
+        "description": "No description provided.",
+        "address": "Jl. Kakatua No. 100, Manukan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/tilasawa-coffee-roaster-main.jpg",
+            "https://placeradar-bucket/tilasawa-coffee-roaster-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "24 Hours",
+            "weekend": "24 Hours"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_tilasawa-coffee-roaster",
+            "x": "https://x.com/placeradar_tilasawa-coffee-roaster"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "a6832d8c-b6cb-4dba-a211-807f5678107d",
+        "name": "28 Coffee Seturan",
+        "description": "No description provided.",
+        "address": "Jl. Pemancar Selatan, Komplek Plaza Seturan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/28-coffee-seturan-main.jpg",
+            "https://placeradar-bucket/28-coffee-seturan-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "24 Hours",
+            "weekend": "24 Hours"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_28-coffee-seturan",
+            "x": "https://x.com/placeradar_28-coffee-seturan"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "b883081d-29e0-4c3f-bf9d-75f0c7094844",
+        "name": "Konkrite Coffee & Place",
+        "description": "No description provided.",
+        "address": "Jl. Jatempanol, Tempel, Caturtunggal",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/konkrite-coffee-&-place-main.jpg",
+            "https://placeradar-bucket/konkrite-coffee-&-place-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "24 Hours",
+            "weekend": "24 Hours"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_konkrite-coffee-&-place",
+            "x": "https://x.com/placeradar_konkrite-coffee-&-place"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "392331e2-3ff7-476e-90ca-d3c80b089ec7",
+        "name": "Tentrem Bumi Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Beringin Raya, Denokan, Maguwoharjo",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/tentrem-bumi-coffee-main.jpg",
+            "https://placeradar-bucket/tentrem-bumi-coffee-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "24 Hours",
+            "weekend": "24 Hours"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_tentrem-bumi-coffee",
+            "x": "https://x.com/placeradar_tentrem-bumi-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "7ea1aed5-6b63-49f8-99e0-e6c9aa36b546",
+        "name": "Habitat",
+        "description": "No description provided.",
+        "address": "Jl. Palagan Tentara Pelajar No. 2-33",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/habitat-main.jpg",
+            "https://placeradar-bucket/habitat-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "24 Hours",
+            "weekend": "24 Hours"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_habitat",
+            "x": "https://x.com/placeradar_habitat"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "5c227096-3486-4a2b-b227-564e09323fed",
+        "name": "Arah Coffee Pandawa",
+        "description": "No description provided.",
+        "address": "Jl. Kaliurang No. 27, Karang Wuni",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/arah-coffee-pandawa-main.jpg",
+            "https://placeradar-bucket/arah-coffee-pandawa-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "24 Hours",
+            "weekend": "24 Hours"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_arah-coffee-pandawa",
+            "x": "https://x.com/placeradar_arah-coffee-pandawa"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "41650f83-4fdd-4703-936b-d0233fa3ea37",
+        "name": "Sender Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Kaliurang No. 5, Kocoran",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/sender-coffee-main.jpg",
+            "https://placeradar-bucket/sender-coffee-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "24 Hours",
+            "weekend": "24 Hours"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_sender-coffee",
+            "x": "https://x.com/placeradar_sender-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "697579d7-42a5-41b7-a4f8-65467e38cec4",
+        "name": "Ling-Lung Kopi & Eatery",
+        "description": "No description provided.",
+        "address": "Jl. Perumnas No. 50C, Kledokan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/ling-lung-kopi-&-eatery-main.jpg",
+            "https://placeradar-bucket/ling-lung-kopi-&-eatery-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "24 Hours",
+            "weekend": "24 Hours"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_ling-lung-kopi-&-eatery",
+            "x": "https://x.com/placeradar_ling-lung-kopi-&-eatery"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "018d50a8-5e6c-4613-985b-6c50b8c20786",
+        "name": "Peacockoffie",
+        "description": "No description provided.",
+        "address": "Jl. Palagan Tentara Pelajar No. 61C",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/peacockoffie-main.jpg",
+            "https://placeradar-bucket/peacockoffie-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "24 Hours",
+            "weekend": "24 Hours"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_peacockoffie",
+            "x": "https://x.com/placeradar_peacockoffie"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "e34e1efd-755c-451a-8b88-79a3fa2508c6",
+        "name": "CW Coffee & Eatery",
+        "description": "No description provided.",
+        "address": "Jl. Seturan Raya, Kledokan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/cw-coffee-&-eatery-main.jpg",
+            "https://placeradar-bucket/cw-coffee-&-eatery-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "24 Hours",
+            "weekend": "24 Hours"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_cw-coffee-&-eatery",
+            "x": "https://x.com/placeradar_cw-coffee-&-eatery"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "3a6efa19-a31d-43fd-bbbd-341effe20837",
+        "name": "Jokopi Jogja",
+        "description": "No description provided.",
+        "address": "Jl. Seturan I No. 221, Kledokan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/jokopi-jogja-main.jpg",
+            "https://placeradar-bucket/jokopi-jogja-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "07:00-04:00",
+            "weekend": "07:00-04:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_jokopi-jogja",
+            "x": "https://x.com/placeradar_jokopi-jogja"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "d206b4ee-0792-4ba8-b23a-2c9fac4c10e0",
+        "name": "Opposite Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Prof. Dr. Notonagoro Selatan, Karang Malang",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/opposite-coffee-main.jpg",
+            "https://placeradar-bucket/opposite-coffee-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "07:00-24:00",
+            "weekend": "07:00-24:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_opposite-coffee",
+            "x": "https://x.com/placeradar_opposite-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "d20d68da-1f07-4ec9-a66f-684570220200",
+        "name": "Kancane",
+        "description": "No description provided.",
+        "address": "Jl. Watugede No. 58-63, Wonorejo",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/kancane-main.jpg",
+            "https://placeradar-bucket/kancane-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "08:00-00:00",
+            "weekend": "08:00-00:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_kancane",
+            "x": "https://x.com/placeradar_kancane"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "22a1c53a-8df0-42b1-9562-7d41f3aa2d88",
+        "name": "Dou Bakes",
+        "description": "No description provided.",
+        "address": "Jl. Demangan Baru No. 33, Papringan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/dou-bakes-main.jpg",
+            "https://placeradar-bucket/dou-bakes-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "08:00-23:00",
+            "weekend": "08:00-23:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_dou-bakes",
+            "x": "https://x.com/placeradar_dou-bakes"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "71e31d11-3a0f-45a3-bdd1-2c3aa021e490",
+        "name": "Rambat Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Perumnas No. 240a, Nologaten",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/rambat-coffee-main.jpg",
+            "https://placeradar-bucket/rambat-coffee-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "08:00-23:00",
+            "weekend": "08:00-23:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_rambat-coffee",
+            "x": "https://x.com/placeradar_rambat-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "0e75b60c-e66f-4c41-9776-4bd26192392e",
+        "name": "Elasi Coffee & Wellness",
+        "description": "No description provided.",
+        "address": "Gg. Gayamsari III No. 2. Karang Wuni",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/elasi-coffee-&-wellness-main.jpg",
+            "https://placeradar-bucket/elasi-coffee-&-wellness-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_elasi-coffee-&-wellness",
+            "x": "https://x.com/placeradar_elasi-coffee-&-wellness"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "c6192ba1-667d-4c6e-8fe7-df79e2d4b2c1",
+        "name": "Cuena Coffee House",
+        "description": "No description provided.",
+        "address": "Perumahan Darussalam II No. C14, Jetis",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/cuena-coffee-house-main.jpg",
+            "https://placeradar-bucket/cuena-coffee-house-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-22:30",
+            "weekend": "10:00-22:30"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_cuena-coffee-house",
+            "x": "https://x.com/placeradar_cuena-coffee-house"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "c9f137fe-9399-40d1-8265-5e66c20bf6f5",
+        "name": "Qamari Coffee & Eatery",
+        "description": "No description provided.",
+        "address": "Jl. Affandi No. 30, Soropadan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/qamari-coffee-&-eatery-main.jpg",
+            "https://placeradar-bucket/qamari-coffee-&-eatery-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-00:00",
+            "weekend": "10:00-00:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_qamari-coffee-&-eatery",
+            "x": "https://x.com/placeradar_qamari-coffee-&-eatery"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "3ceca59e-7bf1-4b8e-929a-f31aa6bd12a5",
+        "name": "Goffee Donuts & Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Wahid Hasyim, Ngropoh",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/goffee-donuts-&-coffee-main.jpg",
+            "https://placeradar-bucket/goffee-donuts-&-coffee-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-01:00",
+            "weekend": "10:00-01:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_goffee-donuts-&-coffee",
+            "x": "https://x.com/placeradar_goffee-donuts-&-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "9d88f3ee-5e4c-41b7-86e8-307781d80e87",
+        "name": "Matcha Cult",
+        "description": "No description provided.",
+        "address": "Jl. Raya Kledokan No. 58, Kledokan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/matcha-cult-main.jpg",
+            "https://placeradar-bucket/matcha-cult-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "11:00-23:00",
+            "weekend": "11:00-23:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_matcha-cult",
+            "x": "https://x.com/placeradar_matcha-cult"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "de9eafb1-9007-44e2-8365-d1b907275f4e",
+        "name": "Cosan Coffee Demangan",
+        "description": "No description provided.",
+        "address": "Jl. Demangan Baru No. 29, Mrican",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/cosan-coffee-demangan-main.jpg",
+            "https://placeradar-bucket/cosan-coffee-demangan-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "07:00-00:00",
+            "weekend": "07:00-00:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_cosan-coffee-demangan",
+            "x": "https://x.com/placeradar_cosan-coffee-demangan"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "fec7a75e-d303-428e-be51-91f9de1c40fe",
+        "name": "7 Clover Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Perumnas, Kledokan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/7-clover-coffee-main.jpg",
+            "https://placeradar-bucket/7-clover-coffee-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "08:00-00:30",
+            "weekend": "08:00-00:30"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_7-clover-coffee",
+            "x": "https://x.com/placeradar_7-clover-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "8944d576-85aa-47ec-a34d-09ff66a8f369",
+        "name": "Alogo Coffee And Space",
+        "description": "No description provided.",
+        "address": "Jl. Raya Kledokan No. 18, Tempel",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/alogo-coffee-and-space-main.jpg",
+            "https://placeradar-bucket/alogo-coffee-and-space-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "15:00-03:00",
+            "weekend": "15:00-03:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_alogo-coffee-and-space",
+            "x": "https://x.com/placeradar_alogo-coffee-and-space"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "9a2c4c5a-e4fb-4263-ae99-51975a85d112",
+        "name": "Dkonkrit Coffee",
+        "description": "No description provided.",
+        "address": "Kledokan, Caturtunggal, Kec. Depok",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/dkonkrit-coffee-main.jpg",
+            "https://placeradar-bucket/dkonkrit-coffee-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "12:00-02:00",
+            "weekend": "12:00-02:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_dkonkrit-coffee",
+            "x": "https://x.com/placeradar_dkonkrit-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "89e5db06-fe76-405d-92d3-1e0835567b9f",
+        "name": "Reter Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Pandega Marta, Pogung Kidul",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/reter-coffee-main.jpg",
+            "https://placeradar-bucket/reter-coffee-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-01:00",
+            "weekend": "09:00-01:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_reter-coffee",
+            "x": "https://x.com/placeradar_reter-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "3d3218a7-1d20-47e1-b216-fa68b67ee4dd",
+        "name": "Atiga Cafe",
+        "description": "No description provided.",
+        "address": "Jl. Delima, Leles, Condongcatur",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/atiga-cafe-main.jpg",
+            "https://placeradar-bucket/atiga-cafe-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "15:00-00:00",
+            "weekend": "15:00-00:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_atiga-cafe",
+            "x": "https://x.com/placeradar_atiga-cafe"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "65cd1ae4-4dfc-4a46-814f-16b52b6d88fe",
+        "name": "RM Bang Rindu",
+        "description": "No description provided.",
+        "address": "Jl. Banyu No. 134C, Karang Gayam",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/rm-bang-rindu-main.jpg",
+            "https://placeradar-bucket/rm-bang-rindu-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-00:00",
+            "weekend": "10:00-00:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_rm-bang-rindu",
+            "x": "https://x.com/placeradar_rm-bang-rindu"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "05823529-4591-4183-a2b9-4aeacf62c879",
+        "name": "Carani Coffee & Eatery",
+        "description": "No description provided.",
+        "address": "Jl. Wijaya Kusuma, Dero",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/carani-coffee-&-eatery-main.jpg",
+            "https://placeradar-bucket/carani-coffee-&-eatery-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "16:00-02:00",
+            "weekend": "16:00-02:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_carani-coffee-&-eatery",
+            "x": "https://x.com/placeradar_carani-coffee-&-eatery"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "ab4a2f75-babb-479c-9cca-58b90295e02d",
+        "name": "Ethiopia Coffee And Space",
+        "description": "No description provided.",
+        "address": "Jl. Gondang Raya No. 8, Kentungan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/ethiopia-coffee-and-space-main.jpg",
+            "https://placeradar-bucket/ethiopia-coffee-and-space-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-00:00",
+            "weekend": "09:00-00:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_ethiopia-coffee-and-space",
+            "x": "https://x.com/placeradar_ethiopia-coffee-and-space"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "d99e62d4-494a-4b7a-9c76-1e55b7a1d31b",
+        "name": "Obie Cafe & Space",
+        "description": "No description provided.",
+        "address": "Jl. Pogung Raya, Podung Kidul",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/obie-cafe-&-space-main.jpg",
+            "https://placeradar-bucket/obie-cafe-&-space-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-00:00",
+            "weekend": "09:00-00:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_obie-cafe-&-space",
+            "x": "https://x.com/placeradar_obie-cafe-&-space"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "b897eec1-3e55-4119-b5c2-fde4c1a8d0f0",
+        "name": "Satuju Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Wahid Hasyim No. 32, Ngropoh",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/satuju-coffee-main.jpg",
+            "https://placeradar-bucket/satuju-coffee-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "16:00-00:00",
+            "weekend": "16:00-00:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_satuju-coffee",
+            "x": "https://x.com/placeradar_satuju-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "faf6f55b-d297-43a1-8d67-d495d1f0b738",
+        "name": "XYZ Coffee & Collabs",
+        "description": "No description provided.",
+        "address": "Jl. Flamboyan, Deresan, Karang Gayam",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/xyz-coffee-&-collabs-main.jpg",
+            "https://placeradar-bucket/xyz-coffee-&-collabs-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-00:00",
+            "weekend": "09:00-00:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_xyz-coffee-&-collabs",
+            "x": "https://x.com/placeradar_xyz-coffee-&-collabs"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "8bf88da0-ffcb-4fe1-a915-a593a01aa367",
+        "name": "Stereos Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Pandega Marta No. 29, Manggung",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/stereos-coffee-main.jpg",
+            "https://placeradar-bucket/stereos-coffee-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-00:00",
+            "weekend": "10:00-00:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_stereos-coffee",
+            "x": "https://x.com/placeradar_stereos-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "df2c4ad7-73b6-452c-992c-2e9efb8de485",
+        "name": "110 Degree Cafe",
+        "description": "No description provided.",
+        "address": "Gg. Apokat, Kledokan, Caturtunggal",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/110-degree-cafe-main.jpg",
+            "https://placeradar-bucket/110-degree-cafe-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-02:00",
+            "weekend": "10:00-02:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_110-degree-cafe",
+            "x": "https://x.com/placeradar_110-degree-cafe"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "ee0efa18-edef-483a-ae4c-fef7c53bbca5",
+        "name": "Hofu Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Raya Kledokan No. 11, Kledokan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/hofu-coffee-main.jpg",
+            "https://placeradar-bucket/hofu-coffee-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-02:00",
+            "weekend": "10:00-02:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_hofu-coffee",
+            "x": "https://x.com/placeradar_hofu-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "cba96b47-335a-4331-9b40-6f829ef5a675",
+        "name": "Bolivar Coffee",
+        "description": "No description provided.",
+        "address": "Jl. Sepakbola No. 03, Ngropoh",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/bolivar-coffee-main.jpg",
+            "https://placeradar-bucket/bolivar-coffee-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-01:00",
+            "weekend": "10:00-01:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_bolivar-coffee",
+            "x": "https://x.com/placeradar_bolivar-coffee"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "554ddd65-287b-42ec-919f-c1f21af11490",
+        "name": "Arah Timur.Co",
+        "description": "No description provided.",
+        "address": "Jl. Raya Kledokan No. 60, Kledokan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "nan",
+        "images": [
+            "https://placeradar-bucket/arah-timur.co-main.jpg",
+            "https://placeradar-bucket/arah-timur.co-interior.jpg"
+        ],
+        "type": "Kosong",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 2,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "15:00-02:00",
+            "weekend": "15:00-02:00"
+        },
+        "social_media": {
+            "instagram": "nan",
+            "tiktok": "https://www.tiktok.com/@placeradar_arah-timur.co",
+            "x": "https://x.com/placeradar_arah-timur.co"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "cfc412ce-4616-45fc-a688-5083aad267dc",
+        "name": "28 Coffee Jakal Km 11",
+        "description": "No description provided.",
+        "address": "Jl. Pedak, Sinduharjo, Kec. Ngaglik",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/28+Coffee+Jakal+Km+11/@-7.7096338,110.4093319,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a5f1f5de509bf:0x9f6ecd63835136bd!8m2!3d-7.7096338!4d110.4093319!16s%2Fg%2F11v5bwy_db?hl=id&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+        "images": [
+            "https://placeradar-bucket/28-coffee-jakal-km-11-main.jpg",
+            "https://placeradar-bucket/28-coffee-jakal-km-11-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 15,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "24 jam",
+            "weekend": "24 jam"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/28coffee.id?igsh=MWZ2NTNtaGY5MXlweA==",
+            "tiktok": "https://www.tiktok.com/@placeradar_28-coffee-jakal-km-11",
+            "x": "https://x.com/placeradar_28-coffee-jakal-km-11"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "a2f983b5-9032-4c44-8ed3-44626227a199",
+        "name": "Easy Groovy",
+        "description": "No description provided.",
+        "address": "Jl. Prawirotaman No.43, Brontokusuman, Kec. Mergangsan",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Easy+Groovy/data=!4m2!3m1!1s0x2e7a575c415c4ae5:0x9f30e0c4a9f7f821?sa=X&ved=1t:242&hl=id-ID&ictx=111",
+        "images": [
+            "https://placeradar-bucket/easy-groovy-main.jpg",
+            "https://placeradar-bucket/easy-groovy-interior.jpg"
+        ],
+        "type": "Restaurant",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 13,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "19.00 - 00 00",
+            "weekend": "19.00 - 00 00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/easygroovy?igsh=dWo1MTJ1NHozajEz",
+            "tiktok": "https://www.tiktok.com/@placeradar_easy-groovy",
+            "x": "https://x.com/placeradar_easy-groovy"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "0651cf79-2571-48b2-8a12-73c3cf4fd35e",
+        "name": "Renea Coffee & Eatery",
+        "description": "No description provided.",
+        "address": "Gg Godel Umbulmartani,Lodadi, Sleman",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Renea+Coffee+%26+Eatery/@-7.689993,110.41573,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a5f3eff87940b:0x5c6a9e84a58d27ca!8m2!3d-7.689993!4d110.41573!16s%2Fg%2F11k3fw2vbv!5m1!1e1?hl=id-ID&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+        "images": [
+            "https://placeradar-bucket/renea-coffee-&-eatery-main.jpg",
+            "https://placeradar-bucket/renea-coffee-&-eatery-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 10,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "24 jam",
+            "weekend": "24 jam"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/reneacoffee?igsh=MXhsbWxhbTZkZjhveg==",
+            "tiktok": "https://www.tiktok.com/@placeradar_renea-coffee-&-eatery",
+            "x": "https://x.com/placeradar_renea-coffee-&-eatery"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "d3388917-9d34-460c-bab5-b47ea1da50f5",
+        "name": "Little Tiam Kaliurang",
+        "description": "No description provided.",
+        "address": "Jl. Kaliurang, Candirejo, Sardonoharjo, Ngaglik",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://www.google.com/maps/place/Little+Tiam+%7C+Kaliurang/@-7.699646,110.4146398,18.5z/data=!4m6!3m5!1s0x2e7a5f004d5de1f5:0xaca69b98ac09a45b!8m2!3d-7.6998264!4d110.4155551!16s%2Fg%2F11m6wccncf!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+        "images": [
+            "https://placeradar-bucket/little-tiam-kaliurang-main.jpg",
+            "https://placeradar-bucket/little-tiam-kaliurang-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 53,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "24 jam",
+            "weekend": "24 jam"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/littletiam_/",
+            "tiktok": "https://www.tiktok.com/@placeradar_little-tiam-kaliurang",
+            "x": "https://x.com/placeradar_little-tiam-kaliurang"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": true
+    },
+    {
+        "id": "9b0e351b-5168-4124-b7e8-6a03dde2746a",
+        "name": "tomoro coffee jakal",
+        "description": "No description provided.",
+        "address": "Gg. Werkudoro, Lodadi, Umbulmartani, Kec. Ngemplak",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://maps.app.goo.gl/3UeSMZ2hw1DTfXcU7?g_st=ac",
+        "images": [
+            "https://placeradar-bucket/tomoro-coffee-jakal-main.jpg",
+            "https://placeradar-bucket/tomoro-coffee-jakal-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 11,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": " jam 7 am - 11pm",
+            "weekend": " jam 7 am - 11pm"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/tomorocoffee.id?igsh=Njczenp6a25kZXg5",
+            "tiktok": "https://www.tiktok.com/@placeradar_tomoro-coffee-jakal",
+            "x": "https://x.com/placeradar_tomoro-coffee-jakal"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    },
+    {
+        "id": "85fa4853-638a-46d2-8896-0ab355a66ffa",
+        "name": "Bento Kopi Jakal",
+        "description": "No description provided.",
+        "address": "Jl. Kaliurang http://no.km/. 12.5, Candi Karang, Sardonoharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581",
+        "coordinates": {
+            "lat": -7.7956,
+            "lng": 110.3695
+        },
+        "google_place_id": "https://share.google/j513umdMNEUfVrt8P",
+        "images": [
+            "https://placeradar-bucket/bento-kopi-jakal-main.jpg",
+            "https://placeradar-bucket/bento-kopi-jakal-interior.jpg"
+        ],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 23,
+        "outlet_per_table": 2,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "Sabtu09.00\u201300.30Minggu09.00\u201300.30Senin09.00\u201300.30Selasa09.00\u201300.30Rabu09.00\u201300.30Kamis09.00\u201300.30Jumat09.00\u201300.30",
+            "weekend": "Sabtu09.00\u201300.30Minggu09.00\u201300.30Senin09.00\u201300.30Selasa09.00\u201300.30Rabu09.00\u201300.30Kamis09.00\u201300.30Jumat09.00\u201300.30"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/bentokopi.jogja/?hl=en",
+            "tiktok": "https://www.tiktok.com/@placeradar_bento-kopi-jakal",
+            "x": "https://x.com/placeradar_bento-kopi-jakal"
+        },
+        "rating_average": 4.5,
+        "review_count": 10,
+        "save_count": 5,
+        "like_count": 5,
+        "is_24_hours": false
+    }
+
+]
