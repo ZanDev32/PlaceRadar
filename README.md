@@ -234,7 +234,7 @@ To use CoreDNS, set your OS DNS server to `127.0.0.1`.
 Monitors service health. Access at https://placeradar.lvh.me/nagios
 
 ### Ngrok (Optional)
-Expose local development externally. Uncomment the ngrok service in `docker-compose.yml` and set `NGROK_AUTH_TOKEN` in `.env`.
+Expose local development externally. Set `NGROK_AUTH_TOKEN` in `.env`.
 
 ## TLS Certificate Setup
 
