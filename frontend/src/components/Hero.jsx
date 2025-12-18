@@ -42,7 +42,7 @@ const Hero = () => {
   return (
     <div className="relative w-full h-screen flex flex-col items-center justify-center overflow-hidden bg-black selection:bg-white selection:text-black">
       {/* Background Gradient (Subtle Spotlight) */}
-      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-white/5 rounded-full blur-[120px] pointer-events-none"></div>
+      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-200 h-200 bg-white/5 rounded-full blur-[120px] pointer-events-none"></div>
 
       {/* Floating Images Layer */}
       <div className="absolute inset-0 pointer-events-none md:pointer-events-auto">
