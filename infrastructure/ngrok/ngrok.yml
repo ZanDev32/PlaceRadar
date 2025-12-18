@@ -1,9 +1,8 @@
-version: "2"
-authtoken: $AUTH_TOKEN
+version: "3"
 tunnels:
-  placeradar:
+  pattae-miquel-unscholastic.ngrok-free.dev:
     proto: http
     addr: nginx:80
     inspect: false
-    host_header: rewrite
-    subdomain: placeradar
+    host_header: pattae-miquel-unscholastic.ngrok-free.dev
+    

@@ -111,16 +111,16 @@ services:
   ngrok:
     image: ngrok/ngrok:latest
     container_name: ngrok
+    restart: unless-stopped
     depends_on:
       - nginx
     environment:
-      - AUTH_TOKEN=${NGROK_AUTH_TOKEN}
-      - NGROK_CONFIG=/etc/ngrok.yml
+      - NGROK_AUTHTOKEN=${NGROK_AUTH_TOKEN}
     command:
-      - start
-      - --config
-      - /etc/ngrok.yml
-      - placeradar
+      - "start"
+      - "--all"
+      - "--config"
+      - "/etc/ngrok.yml"
     volumes:
       - ./infrastructure/ngrok/ngrok.yml:/etc/ngrok.yml:ro
     ports:  
