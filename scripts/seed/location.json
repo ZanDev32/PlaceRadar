@@ -1,0 +1,1146 @@
+[
+    {
+        "id": "635a80a2-33d3-4224-9ca3-9751c09bd6db",
+        "name": "Kolektif",
+        "description": "1. Tempat nyaman, buat nugas juga sangat nyaman, minuman dan cemilan nya enakkk, pelayanannya ramah dan baik, tempat selalu bersih, musik nya tidak begitu keras jadi tidak menganggu aktivitas 2.Suasananya nyaman, bersih, dan memiliki interior yang estetik sehingga membuat betah berlama-lama. Musiknya diputar dengan volume yang pas dan cocok untuk ngobrol, mengerjakan tugas, ataupun sekadar bersantai.  3. tempatnya luas, bersih, dan sangat nyaman untuk meeting baik indoor maupun outdoor, pilihan tempatnya pun banyak karna ada 2 lantai",
+        "address": "Jl. Watugede No.58, Wonorejo, Sariharjo",
+        "coordinates": {
+            "lat": -7.7323772,
+            "lng": 110.3789224
+        },
+        "google_place_id": "https://www.google.com/maps/place/Kolektif+Coworking+Space+%26+Collaboraction/@-7.7323772,110.3789224,17z/data=!3m1!4b1!4m15!1m8!3m7!1s0x2e7a596687d6821d:0x7917dc875e8b3a9f!2sKolektif+Coworking+Space+%26+Collaboraction!8m2!3d-7.7323772!4d110.3814973!10e1!16s%2Fg%2F11gtdmn5kh!3m5!1s0x2e7a596687d6821d:0x7917dc875e8b3a9f!8m2!3d-7.7323772!4d110.3814973!16s%2Fg%2F11gtdmn5kh?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 50000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 32,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": true,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": true,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/kolektif.id/"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "63990e39-05fd-465e-84da-8061965a1464",
+        "name": "Estuary Cafe",
+        "description": "1. makanannya enak2, kopinya juga. Harganya gak terlalu harga mahasiswa sih 2.Setiap sudutnya aesthetic ya, lokasinya agak masuk gang namun nilai plusnya jadi ga bising dengan kendaraan di jalan raya.Suasana tenang banget, bikin nyaman untuk berlama ngobrol dengan teman nongki.Ada 2 ruangan meeting juga, lengkap dengan meja besarnya. 3.Parkirannya luas, big plus buat yang bawa mobil. Indoor area comfy banget, kalau outdoor lebih santai, cuma sayang colokan agak terbatas di luar.",
+        "address": "Gang Code 3, Karangjati Wetan, No.170 C",
+        "coordinates": {
+            "lat": -7.7634358,
+            "lng": 110.3698101
+        },
+        "google_place_id": "https://www.google.com/maps/place/Estuary+Caf%C3%A9/@-7.7634358,110.3698101,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a592453113ae7:0xc92fb44d034ddd57!8m2!3d-7.7634358!4d110.3698101!16s%2Fg%2F11g1kn1g2n?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 40,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": true,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": true,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/estuary.id?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "423e1c24-6ff6-4fd0-b7c6-05aab78eda38",
+        "name": "Kemari Coffee & Space",
+        "description": "1. Wifi-nya kencang, menu makanan dan minuman banyak tersedia. Area parkir pun juga memadai. Karena terletak di jalanan perumahan, tidak terlalu bising oleh traffic lalu lintas. 2.tempatnya sejuk, indoor tersedia ac yg terpasang disegala arah jadi ngga akan kepanasan.ada juga out doornya.ada mushola dan kamar mandi yg bersih.makanannya okelah, kopinya enakkk  3. Lokasinya aga masuk tapi luas, indoor outdoornya nyaman, cocok buat wfh / nugas. Fasilitas juga aman: parkir, toilet, musholaHarga wajar, pelayanan ramahVibesnya juga adem, tenang",
+        "address": "Gg. Pandega Mandala No.3b, Manggung",
+        "coordinates": {
+            "lat": -7.7584801,
+            "lng": 110.3828046
+        },
+        "google_place_id": "https://www.google.com/maps/place/Kemari+Coffee+%26+space+jakal/@-7.7584801,110.3828046,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59b490472373:0xd4be000351d08286!8m2!3d-7.7584801!4d110.3828046!16s%2Fg%2F11kmqx4tnh?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 30,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": true,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": true,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "08:00-23:00",
+            "weekend": "08:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/kemari.coffee?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "b83f3741-b424-4c5f-8109-e6efa466b4a2",
+        "name": "Eplus.Co",
+        "description": "1. Seneng banget bisa ketemu tempat ini dari rekomendasi orang di X. Tempatnya luas, dingin banget, ada indoor dan outdoor. Pilihan kursi juga banyak, ada bean bagnya! Untuk colokan menurut aku cukup banyak, kecuali buat meja yang daerah deket kasir dan Poin plus dari eplus menurut aku ada musholanya, tapi juga better rutin dicuci karpetnya biar pengguna bisa lebih nyaman. Wifi so far juga aman banget, gak lambat. 2.Rekomen buat tempat bukber atau acara yang membutuhkan ruangan luas 3.Tempatnya nyaman dan cukup sepi, cocok buat nugas atau WFH. Suasana tenang, lighting oke, dan ada colokan yang memadai. 4.Luas banget tempatnya, ada Indoors outdoor. Bisa lesehan pakai beanbag juga, colokan nya banyak",
+        "address": "Jl. Candi Gebang, Jetis, Wedomartani",
+        "coordinates": {
+            "lat": -7.7488087,
+            "lng": 110.4117486
+        },
+        "google_place_id": "https://www.google.com/maps/place/eplus.co+coffee+%26+coworking/@-7.7488087,110.4117486,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a597f01e9d807:0x30ce071264dba37e!8m2!3d-7.7488087!4d110.4117486!16s%2Fg%2F11g19234wk?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 20,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": true,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-00:00",
+            "weekend": "09:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/eplusdotco/?utm_source=ig_web_button_share_sheet"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "fd189df7-95fa-4f70-9205-3e2fbb0843c0",
+        "name": "Ekologi",
+        "description": "1. Banyak pengunjung yang buka laptop dan bekerja disini, tiap spot duduk dari depan sampai belakang memang cocok & nyaman. Indoornya adem dengan beberapa spot, ada lorong akses ke area belakang dengan berbagai tanaman (sesuai konsep kafe ini)Bagian belakangnya bisa buat smoking, luas dan layoutnya bisa buat kerja kelompok atau diskusi. Kopinya oke, tapi lebih enak Mocktail Fruit Tea-nya. Dori Sambel Matahnya empuk-banyak-dan pedes!Punya meeting room, musholla dan toilet berbeda 2. Konsepnya low key, bukan yang fancy, tapi nyaman banget untuk WFC. Baileys Latte dan Pandan Latte-nya recommended. Nasi gorengnya enak tapi lumayan pedas. Porsinya banyak banget. AC-nya perlu ditambah, karena agak kurang dingin",
+        "address": "Jalan Gambir 4, Karang Gayam CT VIII No.139",
+        "coordinates": {
+            "lat": -7.7640217,
+            "lng": 110.3889838
+        },
+        "google_place_id": "https://www.google.com/maps/place/Ekologi+Desk+%26+Coffee/@-7.7640217,110.3889838,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59a672b1a7b7:0x82940e244a8ee9e2!8m2!3d-7.7640217!4d110.3889838!16s%2Fg%2F11g7zv0w1t?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 30,
+        "outlet_per_table": 1,
+        "noise_level": 4,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": true,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/ekologi.id?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "aeba4010-b9c0-4004-9b6a-d6ff3e091a4f",
+        "name": "Petik Merah",
+        "description": "1. Tempat nyaman buat nongkrong, tempat luas, wifi kenceng, colokan banyak. Kopi and beveragesnya udah enak semua. Lokasi strategis di tengah kota 2.Barista yang namanya kak dinda itu cantik banget untuk pelayanannya juga terbaik, buat aku mau dateng terus kesana selalu senyum hospitalitynya sihh kerenn thumbs up for her !! 3.tempatnya nyaman banget buat belajarr, makanan sama minumannya jugaa enakk, staff nya Alhamdulillah setiap dateng kesini baik baik ",
+        "address": "Jl. Cucak Rowo No.1, Demangan Baru",
+        "coordinates": {
+            "lat": -7.7788759,
+            "lng": 110.3937435
+        },
+        "google_place_id": "https://www.google.com/maps/place/Petik+Merah+Cafe+%26+Roastery/@-7.7788759,110.3937435,17z/data=!3m1!4b1!4m9!3m8!1s0x2e7a59cb20e3ae23:0xde005f5b69c865c8!5m2!4m1!1i2!8m2!3d-7.7788759!4d110.3937435!16s%2Fg%2F11h105c7vz?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 40,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-02:00",
+            "weekend": "09:00-02:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/petikmerahcafe/"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "b907c920-1952-47c8-a504-10fe5e55dae8",
+        "name": "Relasi Co-Working Space",
+        "description": "1. Tempat luas ada indoor outdoor, 2 lantai, lesehan, meeting room juga ada. Wifi keceng banyak colokan juga. Parkir luas juga.2. Pertama kali kesini laptopan dari siang sampe malem. Kalo siang di lantai 2 panass cuma bagian tertentu aja yg dingin kayaknya ac ny kurang dingin atau ga garagara kebanyakan kacaa dindingnya jd panas kena matahari. Menu nya ada yg paketan jd lebih murah, wifi nya lumayan stabil kenceng, terus musholla nya luas dan bersih, kamar mandi nya juga lumayan bersih 3. Kopi enak, menu makan jg enak.. pelayanan super ramah...Tempat asik buat rapat.",
+        "address": "Jl. Pogung Baru Blk. E No.34, Pogung Kidul",
+        "coordinates": {
+            "lat": -7.7583999,
+            "lng": 110.3766713
+        },
+        "google_place_id": "https://www.google.com/maps/place/Relasi+Co-Working+Space/@-7.7583999,110.3766713,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59e8d0df021b:0x9c7d5bfab2f5068b!8m2!3d-7.7583999!4d110.3766713!16s%2Fg%2F11fk1kz7tm?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 40,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": true,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/relasi.coworking/"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "4d73af41-3e62-445a-b2b6-45205eb5187a",
+        "name": "Takom 1922 Cafe & Resto",
+        "description": "1. Banyak pilihan makanan dan minuman dengan harga mahasiswa. Lokasinya strategis jadi mudah dijangkau. Tempatnya lumayan luas, ada smoking area, dan banyak colokan. Tersedia juga free wi fi. Cocok buat ngerjain tugas atau meeting santai. Petugasnya ramah dan pelayanan lumayan cepat.Ada toko buku dan halaman luas di belakang, jadi cukup nyaman dan gak berisik. Di halaman ini kadang ada event atau nonton bola bareng yang biasa didatangi sama mahasiswa sekitar. Parkiran juga cukup luas dan gak ada biaya parkir. 2.Lokasi :Area strategis dekat kampus, dekat jalan utama gejayan dan ringroad. Tapi area jalan nya tidak sepadat yang jalan utama.Suasana :Berkonsep outdoor dengan area seating yang luas, ada beberapa lokasi di samping maupun di belakang.Suasanannya teduh, rindang dan anda bisa lihat peliharaan kura kura darat yang besar.Makanan & minuman:So far so goodHarga :Terjangkau dan cenderung murah, tadi sempet lihat menu, dan pas ada promo pagi.Pelayanan : cukup ramahPoint plus :- Coffee shop yang buka pagi pagi- seating area yang banyak dan ada colokan- harga sangat bersahabat.- pesan langsung lewat scan dan bayar lewat qris mantapTerimakasih. 3. Takom = Taman KomunikasiYg berada di dalam lingkungan kanisius...Tempatnya sangat nyaman dan sejukPelayanan cepat dan ramahDisini banyak terdapat tempat...Area indoorArea outdoorFree wifiFree parkirToilet terpisah sesuai genderBuka dari jam 09.00 - 00.00Menu yg di sajikan sangat lengkap...Ada promo happy hour ya...Cara pesan makanan bisa lewat link barcode nanti pelayanan datang ke meja atau langsung pesan di kasir...Buat kalian yg suka nugas kuliah atau kantor... disini sangat cocok 🙏🏻",
+        "address": "Jl. Cempaka, Manggung, Caturtunggal",
+        "coordinates": {
+            "lat": -7.7639135,
+            "lng": 110.3894264
+        },
+        "google_place_id": "https://www.google.com/maps/place/Takom+1922+Cafe+%26+Resto/@-7.7639135,110.3894264,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59ba606ba62b:0xd1794183af070cf8!8m2!3d-7.7639135!4d110.3894264!16s%2Fg%2F11sdc64d8q?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 20,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-00:00",
+            "weekend": "09:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/takom1922cafe?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "b73c0dcb-48e8-4020-9e76-9c055e538074",
+        "name": "Sunset Coffee & Eatery",
+        "description": "1. Tempat nongkrong dan work space yang sangat nyaman.Makanan dan minuman harga terjangkau dengan rasa yang enak.Tempat parkir yang luas; 2. tempatnya luaaas dan banyak pilihannya (outdoor, semi, indoor) terus ada live musicnya, makan dan minumnya beragaam, cocok buat nongkrong 3. Tempaaatnyaa nyamaaaan enakk buat nugass skripsiaaaan daaan nongkii hehehehe sampaaai pagi kayaknyaa heheh soalnya aku skripsian disini sampee jam set 3 pagiii dan spot chgrnyaa banyak😍",
+        "address": "Jl. Nologaten, Nologaten, Condongcatur",
+        "coordinates": {
+            "lat": -7.7739888,
+            "lng": 110.4011155
+        },
+        "google_place_id": "https://www.google.com/maps/place/Sunset+Coffee+%26+Eatery/@-7.7739888,110.4011155,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59c4b90478a7:0x4788ee88074f68ed!8m2!3d-7.7739888!4d110.4011155!16s%2Fg%2F11s5xlm9c0?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 20,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "11:00-02:00",
+            "weekend": "11:00-02:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/sunset_jogja?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "4ab36048-5bbf-4899-b469-8c221be78369",
+        "name": "Gemati",
+        "description": "",
+        "address": "Jl. Sidomukti, Tiyosan, Condongcatur",
+        "coordinates": {
+            "lat": -7.734873,
+            "lng": 110.3990334
+        },
+        "google_place_id": "https://www.google.com/maps/place/Gemati+Cafe+and+Space+Yogyakarta/@-7.734873,110.3990334,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a599345b8cb15:0xa027cbb5ace0b207!8m2!3d-7.734873!4d110.3990334!16s%2Fg%2F11q_gdkq_s?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 0,
+        "outlet_per_table": 0,
+        "noise_level": 0,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": false,
+            "board_games": false,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": false,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": false
+        },
+        "opening_hours": {
+            "weekday": "09:00-00:00",
+            "weekend": "09:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/gematicoffee_yk?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "185a5c9f-8c0c-4688-9db0-a3c85aecf570",
+        "name": "Koat Kopi jakal",
+        "description": "1.nyaman menyenangkan cocok buat nugas; 2. Makanan dan minuman enak, layanan mantap, suasananya cozy untuk kerja/nugas. Recommended 👍 3. tempatnya nyaman dan oke harganya juga murah ada wifi cocok buat nongkrong nugas ataupun kerja",
+        "address": "Jalan Kaliurang Km 12, Sardonoharjo, Sleman Regency, Special Region of, Yogyakarta, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        },
+        "google_place_id": "https://share.google/k7DrOW8Dezcf7QjIY",
+        "images": [],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 17,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-00:00",
+            "weekend": "10:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/koatkopi?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "c0a78413-39a9-4ac1-91b8-fd73062799b3",
+        "name": "Carney Co",
+        "description": "1. Cafe yang tempatnya oke bgttt😍 pinggir sawah (bonus sunset cantik) pas sore hari, ada kolam renang, ruang meeting, harga affordable & pelayanannya ramah. 2. suasana mendukung untuk nugas dan lebih ramai santai 3. Goodd pelayanan enak kopi juga enak temoat nya juga gokss",
+        "address": "Jl. Garuni II, Kledokan, Caturtunggal",
+        "coordinates": {
+            "lat": -7.7750309,
+            "lng": 110.4098114
+        },
+        "google_place_id": "https://www.google.com/maps/place/Carney+Co/@-7.7750309,110.4098114,16.73z/data=!4m6!3m5!1s0x2e7a59e58f31ff3f:0x6285971ef452a37a!8m2!3d-7.7754467!4d110.4099001!16s%2Fg%2F11jll0vx1_?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [],
+        "type": "Co-Working Space",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 30,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": true,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": true,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-01:00",
+            "weekend": "10:00-01:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/carneyofficial_id/"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "748d5edd-16fe-4606-af43-009472fb6e59",
+        "name": "Le Travail",
+        "description": "1. Lokasi strategis, ada indoor AC, indoor AC smoking, outdoor. Pilihan minuman dan makanan banyak. Wifi kenceng dan banyak stop kontak, cocok buat nugas. Jangan lupa tanya ada promo apa; 2. Food/drink 5/5Kopinya enak. Creamy glace manteb.Cheese cake juga soft. Gak terlalu manis.Banyak pilihan menu untuk minuman.Lokasi 5/5Pas di pinggir jalan raya jogja solo. Deket perempatan lampu merah arah ke urip sumiharjo.Dibagian belakang ada outdoor. Nice.Kekurangannya, disini gak ada parkiran untuk mobil, jadi menggunakan bahu jalan untuk parkir mobil; 3. Lokasi strategis, ketersediaan ruang sangat representatif (indoor ac non smoking, indoor ac smoking, dan outdoor), menurutku itu briliant. Kalo malem ramai.Food available saat sore hari. Pagi-siang only snacks. Semoga food segera available siang juga yaa",
+        "address": "Jl. Laksda Adisucipto No.19, Demangan",
+        "coordinates": {
+            "lat": -7.78306,
+            "lng": 110.388822
+        },
+        "google_place_id": "https://www.google.com/maps/place/Le+travail+Coffee/@-7.78306,110.388822,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59c6a3cc1847:0xaad574a6c15e4bb2!8m2!3d-7.78306!4d110.388822!16s%2Fg%2F11jl3ft4kg?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 30,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-01:00",
+            "weekend": "09:00-01:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/letravail.idn/"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "9e3fc148-9986-4a61-b9a2-c442d350f938",
+        "name": "Sorea Urban Forest",
+        "description": "1. Baiiikk banget pelayanannya, kopi aku jatuh dari meja karena kesalahanku sendiri tapi malah diganti yang baruu, udah bilang ga usah padahall karena pure kesalahanku. Kopinya juga enaakk, masuk seleraku banget, tempatnya pw banget, sejuk, dan cocok bgt buat nyantai. Toiletnya juga bersih 2. Tempat ngopi dengan suasana hutan yang sejuk dan menenangkan. Ada promo pagi juga di daily coffe dan basic coffe potongan 30% dari jam 7-11 siang. 3.Ambience yg menyenangkan, hutan mini di tengah perkotaan, rekomen utk ngopi sore biar gk panas. Minuman terjangkau dan terbilang oke👍",
+        "address": "Jl. Gambir Karangasem Baru Bulaksumur, Karang Gayam",
+        "coordinates": {
+            "lat": -7.7662448,
+            "lng": 110.3883733
+        },
+        "google_place_id": "https://www.google.com/maps/place/Sorea+Urban+Forest/@-7.7662448,110.3883733,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59b33cf63ed9:0xa02ff3e1c426a66e!8m2!3d-7.7662448!4d110.3883733!16s%2Fg%2F11ss4w_sk9!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+        "images": [],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 97,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": true,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/sorea.urbanforest?igshid=ZDdkNTZiNTM%3D"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "164ab552-0b9f-46ca-b72c-2439525b37b9",
+        "name": "Tip Tap Toe",
+        "description": "1. beberapa kali dateng ke sini emang tmpatnya enak si, makananya juga enak, matcha pistachionya juga 100/10 worth it parah buat gen z, TOILETnyaaaa💢🫶🏻 pencahayaan OMG ccok buat yg suma mirror sellfie😍💋 2. Makanan dsini enak enak , tempatnya nyaman banget banget, Ramah Anak , ada kolam renangnya besar , selama kunjungan dsni di layangi dengan baik oleh mas Ade yg humble banget 😎 3. Tempatnya sangat cozy…. Cocok buat santai bersama keluarga… kids friendly… menu makanannya enak… kolam renang ada yang dangkal dan dalam bisa buat anak2. Sangat metekomendasikan buat family time… Terima kasih buat Kak Susan atas pelayanannya yang sangat ramah… 4. Tip Tap Toe di Jogja benar-benar menghadirkan pengalaman bersantap yang mewah dan lengkap. Tempatnya luas dengan berbagai fasilitas yang membuatnya lebih dari sekadar cafe biasa. Playground dan kolam renang menjadikannya pilihan tepat untuk keluarga, sementara bar minuman menambah kesan eksklusif bagi yang ingin bersantai dengan suasana premium.",
+        "address": "Jl. Palagan Tentara Pelajar, RW.9, Tegal Rejo, Sariharjo, Kapanewon Ngaglik",
+        "coordinates": {
+            "lat": -7.7260785,
+            "lng": 110.3769599
+        },
+        "google_place_id": "https://www.google.com/maps/place/TIP+TAP+TOE/@-7.7260785,110.3769599,16.56z/data=!4m6!3m5!1s0x2e7a59c5d714de41:0x94fade6986fcfa63!8m2!3d-7.7263325!4d110.3809845!16s%2Fg%2F11t4ysvttb?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [],
+        "type": "Restaurant",
+        "pricing_min_spend": {
+            "amount": 50000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 12,
+        "outlet_per_table": 1,
+        "noise_level": 9,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": true,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/tiptaptoe.jogja/"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "8615013b-9d10-4b54-887f-9fd45939df19",
+        "name": "Tiga Roepa",
+        "description": "1. Saya datang ke sini untuk menikmati suasana vintage yang tenang.2. Tempatnya tuh tenang, vibesnya kaya rumah nenek gitu, makan, minum oke, oke lah 3. Sangat comfyy, harga dan rasa enak, tempatnya banyak dan tenang, tidak begitu bising 4. Begitu masuk ke dalam area kafe langsung vibes vintagenya kerasa banget, apalagi kalo kesini waktu mendung/hujan, keren sih, salut ada kafe seperti ini di tengah kota, beli kopi susu tiga roepa sama paket mocktail yang sama roti, totally worth it",
+        "address": "Jl. Pandega Marta No.43, Manggung",
+        "coordinates": {
+            "lat": -7.7551432,
+            "lng": 110.3770198
+        },
+        "google_place_id": "https://www.google.com/maps/place/Tiga+Roepa+Pandega+Galeri+%26+Cafe/@-7.7551432,110.3770198,17.7z/data=!4m6!3m5!1s0x2e7a59c9b3237eb7:0xe42ee5d8a88ca2e6!8m2!3d-7.7549611!4d110.380011!16s%2Fg%2F11fwcwtx3l?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [],
+        "type": "Restaurant",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 40,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "10:00-22:00",
+            "weekend": "10:00-22:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/tigaroepa/"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "94afdef7-2e91-4581-af3b-575f216f8b82",
+        "name": "Lars Flagship Store",
+        "description": "1. Coffeeshop settingnya tipikal buat kerja dan garap tugas. Enak sih cuma pricenya agak lumayan kalo buat daily ke sini. 2.Salah satu tempat rekomendasi ngopi didaerah SCBD Jogjaa. Harganya standar tempatnya rame terus jadi kurang nyaman buat aku yg introvert 👉👈 3. Bareng teman kesini. Teman mau kerja bawa laptop. Ku tinggal bentar eh dia malah pulang duluan. Jadi belum sempat mencicipi menu² disini. Enak sih tempatnya kayaknya. Cocok buat yg wfh. Ada ruang buat smoking juga. Teman pesan matcha float. Sepertinya enak. Besok ku cobain jugaa. Ada rooftop nya juga d lt 3",
+        "address": "Jl. Seturan Raya No.168, Kledokan",
+        "coordinates": {
+            "lat": -7.7704781,
+            "lng": 110.4070432
+        },
+        "google_place_id": "https://www.google.com/maps/place/Lars+Flagship+Store/@-7.7704781,110.4070432,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59809f2a71cd:0x366400edb7d45313!8m2!3d-7.7704781!4d110.4096181!16s%2Fg%2F11sms01hp7?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 10,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": false,
+            "private_table": false,
+            "prayer_room": false
+        },
+        "opening_hours": {
+            "weekday": "09:00-00:00",
+            "weekend": "09:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/larsflagship/"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "56b169a1-ab89-4710-af80-4b256f057811",
+        "name": "Trilogi Coffee",
+        "description": "(1). Sebenernya lebih tepat jadi resto karena meja yang ada besar beasar, dan puny iursi kapasitas pebih dari 2, jadi paling enak ke sini memang rame rame bareng teman atau keluarga. Menunya banyak dari masakan western, chinese, samapai nusantara. Dengan aneka citarasa. Kopinya juga enak banget, sedia berbagai macam beans yang bisa kita pilih untuk yang single origin. Fasilitasnya komplit dari parkiran yang luas, toilet terpisah yang besih, mushola yang bersih dan nyaman. Konsepnya alami jadi asri dan sejuk banget. Sepertinya juga tidak ada ruangan yang ber AC jadi semua menggunkan angin alami, kalau saya tidak salah ya, mungkin saya kurang menjelajah beberapa bagian dari cafe ini. Intinya patut kalian coba buat ke sini dan saya sarankan komplit, ngopi makan dan ngemil juga (2). Tempatnya enak, buat nongki lama apalagi pas kesini pas hujan deres tempatnya adem sejuk. Makanannya enak semua apa lagi bakwannya, es teler sama es buahnya waww porsi besar bisa buat 4 orang. Tapi ya sesuai sih sama harganya yaa. Tempatnya juga estetik buat foto2 (3). Kesini karena posisinya strategis untuk janjian. Lokasi sesuai dengan map, tapi harus teliti untuk melihat sign-nya. Parkiran luas, cukup untuk mobil dan motor.Restonya luas, ada beberapa pilihan seat location.Makanannya enak dengan tampilan yg menarik. Cocok untuk yg mau WFC dan hangout bareng.Kemungkinan akan kembali lagi, penasaran sama menu cakes dan ice cream-nya yg kemarin belum sempat dicoba.",
+        "address": "Jl. Palagan Tentara Pelajar No.8.6",
+        "coordinates": {
+            "lat": -7.7229404,
+            "lng": 110.3819204
+        },
+        "google_place_id": "https://www.google.com/maps/place/TRILOGI+COFFEE/@-7.7229404,110.3819204,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59392eb82c13:0x51ce29f88c757607!8m2!3d-7.7229404!4d110.3819204!16s%2Fg%2F11px31m7_8?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+        "images": [],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 12,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "08:00-23:00",
+            "weekend": "08:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/trilogicoffeeid?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "19197fdc-09fe-49ee-b272-c8db84cc077a",
+        "name": "Kolona Kitchen & Coffee",
+        "description": "1. Tempat makan yang cocok untuk kalian yang ingin fine dining. Suasananya sangat unik, begitu juga dengan interiornya. Staffnya sangat baik dan ramah dalam melayani. Pilihan menu makanan tentunya juga sangat bervariasi. Makanan-makanan yang disajikan tentunya tidak mengecewakan. Rasanya enak. Selain itu, plating makanan yang menarik juga menambah ketertarikan dari makanan yang disajikan. Disini juga tersedia gelato yang mungkin bisa dinikmati sebagai makanan penutup. (2). Tempatnya nyaman banget buat nugas maupun nongkrong bareng teman , pelayanan super ramah , makanannya walaupun di coffe enak banget , ramah dikantong dan enak pastinya,kemarin reservasi disini baik banget deh yakinn (3). Restoran ini menawarkan beragam pilihan makanan dan minuman, semuanya disiapkan dengan cermat untuk memastikan pengalaman kuliner yang lezat dan memuaskan. Struktur harga yang ditawarkan sangat sesuai dengan tarif standar di restoran-restoran terkemuka di Yogyakarta, mencerminkan kualitas bahan dan layanan yang diberikan (4). Kelebihan : Tempat parkir cukup luas. Pelayanannya cukup cepat karena kami satu-satunya tamu saat itu. Staf yang ramah dan membantu. Seleranya.. bagus tapi tidak luar biasa dibandingkan dengan harganya.Kekurangan: Makanan mahal. Area dalam ruangan cukup gelap. Kucing berlarian di dalam, duduk di sofa dan meja yang berarti kebersihan/kebersihan harus ditingkatkan",
+        "address": "Jl. Palagan Tentara Pelajar No.Km.8",
+        "coordinates": {
+            "lat": -7.7309623,
+            "lng": 110.3792981
+        },
+        "google_place_id": "https://www.google.com/maps/place/KOLONA+Kitchen+%26+Coffee/@-7.7309623,110.3792981,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a5916539b6575:0xabee670e2ee1b730!8m2!3d-7.7309623!4d110.3792981!16s%2Fg%2F11fnp4x5j_?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+        "images": [],
+        "type": "Restaurant",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 12,
+        "outlet_per_table": 0,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "08:00-23:00",
+            "weekend": "08:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/kolona.jogjakarta?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "2eec96c2-3e02-4be2-b9a4-e0d083990aa8",
+        "name": "Seven Stones",
+        "description": "(1). Buat yang seneng kucing rekomen sih, colokan banyak,bisa buat nugas berjam jam, parkir luas,ada mushola juga (2). Tempatnya enak banget buat nugas dan nongkrong bareng temen. Space antar mejanya juga lumayan jauh, buat kaum introvert suka sihhhh. Minuman dan makanannya enak banget. Point plus buat sevenstones juga baristanya ramah2 bangett jadi kalo kita bingung mau pesen apaa, kita jadi Gak ngerasa canggung👍+ kucing2 nya lucu bangettt (3). Beneran rainforest sih hehehe. Keliatan kotor karena ada pohon bambu di parkiran tapi di dalam homey dan WFC friendly. Lokasinya di gang gang dalam tapi mobil aman dan parkiran luas.Lantai 1 smoking area. Lantai 2 lesehan vape only (4). Sebenernya tempatnya ya bagus aja, tapi banyak bagian yg mungkin kurang terawat. Seperti chandeliernya banyak sarang laba-labanya, seng pembatas di area outdoor jg tidak rapi.Makanan dan minuman ya standard aja. Edible kok.Pas kesini krn ada acarak sewa tempat. Tapi pas zoom meeting, ada 1 perwakilan dr cafe yg ikut. Tp pas dr loading sampai selesai acara itu orang ga muncul sama sekali. Trs ga menyediakan genset.Overall lumayan kok. Tapi kalau lebih baik lg kayaknya bakal lebih keren sih.",
+        "address": "Karang Wuni, Caturtunggal, Kec. Depok",
+        "coordinates": {
+            "lat": -7.7602921,
+            "lng": 110.379575
+        },
+        "google_place_id": "https://www.google.com/maps/place/Seven+Stones+Coffee+Shop/@-7.7602921,110.379575,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a59d60c507825:0x768cba27d4d30a5b!8m2!3d-7.7602921!4d110.379575!16s%2Fg%2F11ghs53mmp?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+        "images": [],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 12,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": true,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/7stones.yk/"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "933ac60a-4241-4beb-b35f-fe7657008162",
+        "name": "Epic Coffee",
+        "description": "(1). Cafe yg berada didaerah palagan ini ambiencenya cocok sekali untuk keluarga yg ingin bersantai. Ada tempat indoor dan outdoornya juga,kalo sore paling enak duduk diarea outdoornya karna banyak pohon pohon jadi sejuk. Untuk meeting atau ngerjain tugas kampus juga enak dan pewe. Untuk makanan yang saya pesan enak semua, minumannya proper dan enak juga,harganya memang pricey tp worth it lah, area toiletnya bersih dan estetik. Untuk hospitality nya juga bagus,parkirannya luas (2). Kelebihan1. Lokasi dekat Hotel Hyatt dan Mirota Kampus Palagan di Kawasan Palagan kota Jogja.2. Suasana nyaman dan modern dengan dekorasi unik.3. Menu variatif, termasuk kopi, makanan ringan, dan dessert.4. Harga terjangkau (Rp 10.000 - Rp 50.000).5. Pelayanan ramah dan cepat.UlasanEpic Cafe Jogja adalah tempat nongkrong yang tepat untuk pecinta kopi dan dessert. Suasana nyaman, menu variatif, dan harga terjangkau membuatnya menjadi pilihan yang baik. Epic Cafe Jogja sangat direkomendasikan (3). tempatnya nyaman dan estetik, makanannya rasanya ok, harga cukup pricey utk ukuran yogya. but overall ok kok  (4). Saya memesan kopi yang luar biasa dan pasta bawang putih, oh itu enak sekali. Pasangan saya memesan daging domba panggang dan dagingnya sangat sulit dipotong dengan pisau apa pun. Tempatnya memiliki suasana yang menakjubkan, pelayannya ramah. Setiap kali berada di Yogyakarta, saya selalu merekomendasikan tempat ini. Saya melihat semua makanan lain di meja dan semua orang tampak menikmatinya. Jadi pasangan saya hanya kurang beruntung.",
+        "address": "Jl. Palagan Tentara Pelajar No.Km.8",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        },
+        "google_place_id": "https://maps.app.goo.gl/oAG2oYD1LGqFHoDfA",
+        "images": [],
+        "type": "Restaurant",
+        "pricing_min_spend": {
+            "amount": 75000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 12,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": true,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "08:00-23:00",
+            "weekend": "08:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/epic_coffee?igsh=N2JscHM2ZjFyeTUx"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "2b9883ba-deb0-4f1a-9bc1-97903fad397d",
+        "name": "Temu Kamu",
+        "description": "(1). Tempat yang menyenangkanMakanan dan minuman dengan harga terjangkau (2). Pertama kali kesini puas dengan pelayanannya, dari segi rasa worth it untik dicoba, suasana dari lantai atas terdengar jelas suara lalu lintas kendaraan jadi agak sedikit berisik, tapi untuk rasa enak2 semua (3). cocok bangeet buat mahasiswa akhir buat nugass, buat sekelurgaa jugaa oke, buat foto2 ootd nyaa estetiik (4). Pertama kali kesini puas dengan pelayanannya, dari segi rasa worth it untik dicoba, suasana dari lantai atas terdengar jelas suara lalu lintas kendaraan jadi agak sedikit berisik, tapi untuk rasa enak2 semua",
+        "address": "Jl. Laksda Adisucipto, Demangan",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        },
+        "google_place_id": "https://maps.app.goo.gl/sbP7uqxxcyqBxXVK7",
+        "images": [],
+        "type": "Restaurant",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 15,
+        "outlet_per_table": 1,
+        "noise_level": 4,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-00:00",
+            "weekend": "09:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/temukamu.indonesia/"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "592fc4c3-9203-42c1-811c-a95ed3b78e99",
+        "name": "Semuda Kopi",
+        "description": "(1). coffee shop yg cocok dan cozy buat wfc an atau sekedar nongkrong di daerah maguwoharjo. pelayanan oke, menu bervariasi dan ramah dikantong. (2). Dari banyak nya palm sugar latte di cafe di jogja yang pernah saya rasain.Palm sugar latte disini emang enakkk sih seriusan... selain itu juga udah pernah rasain yang caramel macciato, sama butter apa itu juga jempol. Selama ini nyari kopi yang nyaman di perut & lidah ini sih yang pas :))Tempatnya nyaman, AC mantap hehehe. Outdoor nya juga ada pohon2 nya jadi asri, biasanya juga ku pakai buat meeting sama tim ku. Rekomended. (3). Cafe yang nyaman untuk hangout dgn teman, atau mau kerjakan tugas kuliah/ kantor. Wifi kencang, enaknya tersedia WC yang bersih/ wangi dan mushola untuk solat (4). Datang ke Semuda Kopi Maguwo pagi-pagi, masih sepi dan enak banget buat ngopi santai. Sering lewat pas siang selalu ramee. Cobain duduk di indoor-nya, AC-nya dingin, pelayanan ramah, dan kamar mandinya bersih (plus poin banget!). Tempatnya ternyata lumayan luas juga walau dari luar kelihatannya kecil. Overall, nyaman banget buat nongkrong atau nugas, harganya juga masih oke! ☕✨",
+        "address": "Jl. Raya Wedomartani, Jetis",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        },
+        "google_place_id": "https://maps.app.goo.gl/XV8156yQ1dJKg4n99",
+        "images": [],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 20,
+        "outlet_per_table": 0,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": true,
+            "outlet_extender": true,
+            "meals_available": false,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/semudakopi/"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "7904103b-81c4-4053-b12e-05319bff99e6",
+        "name": "Toko Kopi Sedaya",
+        "description": "(1). Berikut ini adalah ulasan jujur saya (dan maybe pick me) 🙏(+)1. Saya suka dengan suasana di kafe ini, sangat nyaman untuk nugas dan kerja. Desain interiornya cakep, bikin bersemangat. (2). Playlist musiknya bagus, volumenya juga pas, engga kebesaran. Musiknya terdengar dari semua tempat. (3). Banyak colokan dan roll kabel (bisa minta ke staff di depan). (4). Makanan enak, minuman enak banget (sesuai dengan taste saya)👍. Saya pernah nyoba ricebowl, cireng, kentang goreng, matcha, coklat, susu regal, dll. semua yang dah saya coba ga ada yang gagal ❣(5. Ada snack dan minuman gratis.(-)1. Pengunjung di ruang ber-AC kadang-kadang (sering) berisik. Memang ga ada aturan tertulis buat gabole berisik sih di sini, tapi di kafe lain umumnya ruang ber-AC lebih tenang.2. Masih tentang ruang ber-AC, ada beberapa pengunjung yang merokok vape di dalam. Tapi engga tau kenapa ga ada yang ditegur/kena charge sama staff padahal cctv sepertinya selalu nyala. Untuk hal ini kafe area jogsel lebih ketat 😏.3. Setau saya ga bole bawa makanan dari luar, tapi ada yang bawa (ga cuma seorang, tapi banyak). Mana kalo bau makanannya menyengat tu agak mengganggu 😁. Mba mas staff nya idk tau ato engga.Jadi, yuk mba mas staff nya lebih tegas demi kelangsungan hidup kafe ini 😄. Teruntuk sesama pengunjung, kalau mau ngafe, tolong belilah makanan dari kafenya. Kalau ga punya duit lebih baik jangan ngafe 🙂. Juga plz no smoking di ruangan ber-AC, bikin AC cepet rusak ygy 💅.Sekian, mohon maaf dan terima kasih. Moga lebih baik dan sukses selalu 🙌(2). Spot WFC Ter-PW💻📝Kalau kamu lagi cari tempat buat nugas atau sekedar nongki, toko kopi sedaya lah jawabannya.✅ Harganya murah tapi rasanya ngga murahan, pliss i’m so in love with kopi prayan, ricebowlnya dan snacknya juga enak-enak✅ Buat orang yang suka nugas sendirian, cafe ini masih introvert friendly yah✅ Ruang AC-nya cukup tenang, musiknya ngga terlalu kenceng, dan playlistnya tuh yang literally sama kaya playlist hp aku✅ Wifi kenceng, banyak space colokan dan bisa pinjem olor juga✅ Kamar mandinya bersih, lengkap pula disediain perkap kaya pembalut, sabun cuci muka, sunscreen dll✅ Ada musholanya juga, luas dan mukenanya wangi✅ Baristanya ramah dan helpfull. Big yes!!!(3). menurut gue, di sini best, bestnya yg literally BEST, playlistnya ok, kopinya ok, tempatnya ok, wcnya ok, dan skrng indoornya diperluas, best bgt, OIYA YG PALING PENTING SERVICENYA OKK BGTT PLSS! PERTAHANIN YAAAA 💗 pernah ke yg lain dan di sini servicenya ok bgt alias ramah, tolong naikin gaji baristanya ☝️",
+        "address": "Jl. Prayan I No. 80 C, Kaliwaru",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        },
+        "google_place_id": "https://maps.app.goo.gl/VhbmBnFCw9Sdvrv1A",
+        "images": [],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 1000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 15,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-23:00",
+            "weekend": "09:00-23:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/tokokopisedaya/"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "d94631a6-c500-4b82-bc07-e2678ce318ff",
+        "name": "Alayya Coffee & Resto",
+        "description": "(1). Menemukan coffee shop ini di threads.1. Sebagai seorang introvert dan berusaha menghindari musik, kafe ini cocok untuk anda. Orang-orang yang datang juga tidak berisik dan mengerjakan aktivitas masing-masing. Kafe ini juga no music yaa2. Mushola bersih, kamar mandi bersih, kursi dan mejanya juga minim berdecit.3. Kecepatan WiFi oke banget.4. Harga terjangkau5. Nasi telurnya enak walau sesimpel nasi telur hehe6. Pelayanan ramah, bisa tunai, kartu, atau qris7. Saat adzan Zhuhur berkumandang, ada jeda sehingga barista pergi melaksanakan solatnya.BaarakAllahu fiikum yaa kafenya. Semoga Allah jaga selalu dan menjadi kebaikan bagi orang-orang yang datang 🪴 (2). Kaya nya ini satu²nya di Jogja, mungkin di Indonesia,Kafe yg DILARANG MEROKOK dan DILARANG PACARAN, dan juga TANPA MUSIK.Outdoor di Lt 2 juga non smoking, nyaman banget.Buat ngobrol dan diskusi enak banget, sangat nyaman Krn ngga harus teriak² krn bising dan musik.Cheesecake nya uwenaaaakkk, pas dapet free tester lapis legit nya yg juwaraaaaaa juga..Mantap Alayya, pertahankan 👍🏻👍🏻👍🏻 (3). all 5 stars 🤩 pelayanannya ramah dan attentive sesuai request, menu yang disajiin cukup enak dan affordable ++tempatnya sangat cozy, lantai 1 sangat tenang dan nyaman buat ngerjain tugas tanpa gangguan suara atau asap rokok, musholanya juga nyaman karena dipisah cowo cewe dan mukena wangi. In addition, parkirnya juga gratis tapi kendaraan selalu terparkir rapi, jadi ngga susah banget mau keluar lagi, pokonya the best cafe for me so far!!buat yang mau diskusi, jangan khawatir karena di lantai 2 bisa buat diskusi rame rame, spacenya cukup, +ada ruang meeting ber-AC dan panel TV juga :Dminusnya di lantai 2 adalah bising suara kendaraan lewat dan kalo siang, kerasa lebih panas karena semi-outdoorps: udah berasa pelanggan tetap, misal bosen terus ke kafe lain mesti berakhir balik lagi kesini 🚶",
+        "address": "Jl. Garuda No. 200, Sanggrahan",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        },
+        "google_place_id": "https://maps.app.goo.gl/uhx6ZdfLVt8uuqLz9",
+        "images": [],
+        "type": "Restaurant",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 12,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": true,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": false,
+            "private_table": false,
+            "prayer_room": true
+        },
+        "opening_hours": {
+            "weekday": "09:00-00:00",
+            "weekend": "09:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/alayyacafe/"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    },
+    {
+        "id": "bb18ede6-44ef-4bcd-9ce0-c4c1b7d81de4",
+        "name": "Uptown Cafe And Space",
+        "description": "(1). Kafe favorit di Jogja karena ambience nyaman banget dengan kondisi di rooftop. Pelayanan waiter-nya juga baik-baik dan murah senyum. Pesanan juga cepat banget diantarnya. Makanannya menurutku enak dan seperti pada umumnya, bedanya lebih enak karena nikmatinnya sambil ngeliat suasana malam perkotaan dari kafe. Tempatnya juga luas dan banyak space, cocok buat yang mau diskusi ataupun nugas. Wifi juga kenceng. (2). Salah satu cafe yg lokasinya di rooftop apartemen, mungkinyg terbaik kesini pas saat senja, jam 5 sore pas langit diatas jogja bewarna tembaga, apalagi jika gunung Merapi masih jelas. (3). Kemarin aku habis ke sini sumpah pemandangannya bagus banget bisa lihat Gunung Merapi kalau pas lagi cerah, apalagi pas sunsett, harga makanan disini terjangkau porsinya juga lumayan cocok buat nugas soalnya tersedia colokan sama wifi, kalau mau ke sini lewat lift ya pilih yang lantai atas sendiri, untuk parkirnya bisa di samping gedung",
+        "address": "Jl. Student Castle, Kledokan",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        },
+        "google_place_id": "https://maps.app.goo.gl/anUnVekbVnR3kmpN7",
+        "images": [],
+        "type": "Coffee shop",
+        "pricing_min_spend": {
+            "amount": 25000,
+            "unit": "visit",
+            "currency": "IDR"
+        },
+        "wifi_speed_mbps": 11,
+        "outlet_per_table": 1,
+        "noise_level": 5,
+        "facilities": {
+            "pet_friendly": false,
+            "smoking_area": true,
+            "board_games": true,
+            "ac": false,
+            "meeting_room": false,
+            "outlet_extender": true,
+            "meals_available": true,
+            "private_table": false,
+            "prayer_room": false
+        },
+        "opening_hours": {
+            "weekday": "16:00-00:00",
+            "weekend": "16:00-00:00"
+        },
+        "social_media": {
+            "instagram": "https://www.instagram.com/uptowncafe.jogja/"
+        },
+        "rating_average": 0,
+        "review_count": 0,
+        "save_count": 0,
+        "like_count": 0,
+        "is_24_hours": false
+    }
+]
