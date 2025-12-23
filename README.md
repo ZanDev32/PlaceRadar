@@ -10,6 +10,7 @@ PlaceRadar is a hyper-specific workspace discovery platform for students and rem
 - [Getting Started](#getting-started)
 - [Accessing the Application](#accessing-the-application)
 - [Environment Configuration](#environment-configuration)
+- [Authentication](#authentication)
 - [Development Workflow](#development-workflow)
 - [Seeding Sample Data](#seeding-sample-data)
 - [Key Application Modules](#key-application-modules)
@@ -38,7 +39,7 @@ The application runs as six Docker services defined in [`docker-compose.yml`](do
 - **Reverse Proxy:** Nginx with TLS ([`infrastructure/nginx/nginx.conf`](infrastructure/nginx/nginx.conf))
 - **DNS Server:** CoreDNS ([`infrastructure/coredns/Corefile`](infrastructure/coredns/Corefile))
 - **Monitoring:** Nagios ([`infrastructure/nagios/placeradar.cfg`](infrastructure/nagios/placeradar.cfg))
-- **Tunnel (optional):** Ngrok
+- **Tunnel (optional):** Ngrok ([`infrastructure/ngrok/ngrok.yml`](infrastructure/ngrok/ngrok.yml))
 
 ## Project Structure
 ```
@@ -105,7 +106,7 @@ The main address for the app is `placeradar.lvh.me` (recommended). This is a "ma
 | Service | URL | Notes |
 |---------|-----|-------|
 | **Frontend (HTTPS)** | https://placeradar.lvh.me | Accept self-signed cert warning |
-| **Frontend (HTTP)** | http://placeradar.lvh.me | Redirects to HTTPS |
+| **Frontend (HTTP)** | http://placeradar.lvh.me | Served over HTTP (no redirect) |
 | **API** | https://placeradar.lvh.me/api/place | REST endpoints |
 | **Nagios** | https://placeradar.lvh.me/nagios | Monitoring dashboard |
 | **pgAdmin** | https://placeradar.lvh.me/pgadmin | Database UI |
@@ -125,8 +126,22 @@ Edit [`.env`](.env) to configure the application. Key variables:
 | `NAGIOS_USERNAME` | `nagiosadmin` | Nagios web UI username |
 | `NAGIOS_PASSWORD` | `admin123` | Nagios web UI password |
 | `NGROK_AUTH_TOKEN` | - | Ngrok authentication (optional) |
+| `JWT_SECRET` | `your_jwt_secret` | Secret key for signing JWT tokens |
+| `JWT_EXPIRES_IN` | `1h` | JWT expiration, e.g., `15m`, `1h`, `7d` |
+| `ADMIN_USERNAME` | `admin` | Admin login for JWT issuance |
+| `ADMIN_PASSWORD` | `admin123` | Admin password for JWT issuance |
 
 The backend reads configuration from [`backend/src/config/env.js`](backend/src/config/env.js).
+
+## Authentication
+
+The backend issues JWTs for admin actions. Reads are public; writes are protected.
+
+- **Login endpoint:** `POST /api/auth/login` with JSON `{ "username": ADMIN_USERNAME, "password": ADMIN_PASSWORD }`.
+- **Receive:** `{ "token": "<jwt>" }` signed with `JWT_SECRET`, expiring per `JWT_EXPIRES_IN`.
+- **Send token:** `Authorization: Bearer <jwt>`
+- **Protected endpoints:** `POST /api/place`, `PUT /api/place/:id`, `DELETE /api/place/:id`
+- **Public endpoints:** `GET /api/place`, `GET /api/place/:id`, `GET /api/place/:id/maps`, `GET /api/place/nearby`
 
 ### Credentials persistence (important)
 
@@ -175,7 +190,6 @@ docker compose up -d --build    # Build and start all services
 docker compose logs -f          # Follow logs
 docker compose down             # Stop all services
 docker compose down -v          # Stop and remove volumes
-docker compose up -d --scale nagios=0 --scale ngrok=0 # Build and start all services except NagiOS and Ngrok
 ```
 
 ## Seeding Sample Data

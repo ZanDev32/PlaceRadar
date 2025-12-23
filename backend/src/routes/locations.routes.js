@@ -8,6 +8,7 @@ const {
     getNearbyLocations,
 	getLocationMaps,
 } = require('../controllers/locations.controller');
+const auth = require('../middleware/auth');
 
 const router = express.Router();
 
@@ -24,12 +25,12 @@ router.get('/:id/maps', getLocationMaps);
 router.get('/:id', getLocationById);
 
 // Route to create a new location
-router.post('/', createLocation);
+router.post('/', auth, createLocation);
 
 // Route to update an existing location
-router.put('/:id', updateLocation);
+router.put('/:id', auth, updateLocation);
 
 // Route to delete a location
-router.delete('/:id', deleteLocation);
+router.delete('/:id', auth, deleteLocation);
 
 module.exports = router;

@@ -2,6 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const locationsRoutes = require('./routes/locations.routes');
+const authRoutes = require('./routes/auth.routes');
 const errorHandler = require('./middleware/errorHandler');
 
 const app = express();
@@ -14,6 +15,7 @@ app.get('/api', (req, res) => {
     res.status(200).send('Message from PlaceRadar Back-End using API');
 });
 
+app.use('/api/auth', authRoutes);
 app.use('/api/place', locationsRoutes);
 
 app.get('/health', (req, res) => {
