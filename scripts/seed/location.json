@@ -40,8 +40,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "63990e39-05fd-465e-84da-8061965a1464",
@@ -84,8 +84,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+       
     },
     {
         "id": "423e1c24-6ff6-4fd0-b7c6-05aab78eda38",
@@ -128,8 +128,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "b83f3741-b424-4c5f-8109-e6efa466b4a2",
@@ -172,8 +172,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "fd189df7-95fa-4f70-9205-3e2fbb0843c0",
@@ -216,8 +216,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "aeba4010-b9c0-4004-9b6a-d6ff3e091a4f",
@@ -260,8 +260,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "b907c920-1952-47c8-a504-10fe5e55dae8",
@@ -304,8 +304,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "4d73af41-3e62-445a-b2b6-45205eb5187a",
@@ -348,8 +348,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "b73c0dcb-48e8-4020-9e76-9c055e538074",
@@ -392,8 +392,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "4ab36048-5bbf-4899-b469-8c221be78369",
@@ -436,8 +436,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "185a5c9f-8c0c-4688-9db0-a3c85aecf570",
@@ -480,8 +480,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "c0a78413-39a9-4ac1-91b8-fd73062799b3",
@@ -524,8 +524,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "748d5edd-16fe-4606-af43-009472fb6e59",
@@ -568,8 +568,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "9e3fc148-9986-4a61-b9a2-c442d350f938",
@@ -612,8 +612,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "164ab552-0b9f-46ca-b72c-2439525b37b9",
@@ -656,8 +656,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "8615013b-9d10-4b54-887f-9fd45939df19",
@@ -700,8 +700,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "94afdef7-2e91-4581-af3b-575f216f8b82",
@@ -744,8 +744,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "56b169a1-ab89-4710-af80-4b256f057811",
@@ -788,8 +788,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "19197fdc-09fe-49ee-b272-c8db84cc077a",
@@ -832,8 +832,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "2eec96c2-3e02-4be2-b9a4-e0d083990aa8",
@@ -876,8 +876,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "933ac60a-4241-4beb-b35f-fe7657008162",
@@ -920,8 +920,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "2b9883ba-deb0-4f1a-9bc1-97903fad397d",
@@ -964,8 +964,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "592fc4c3-9203-42c1-811c-a95ed3b78e99",
@@ -1008,8 +1008,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "7904103b-81c4-4053-b12e-05319bff99e6",
@@ -1052,8 +1052,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "d94631a6-c500-4b82-bc07-e2678ce318ff",
@@ -1096,8 +1096,8 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     },
     {
         "id": "bb18ede6-44ef-4bcd-9ce0-c4c1b7d81de4",
@@ -1140,7 +1140,7 @@
         "rating_average": 0,
         "review_count": 0,
         "save_count": 0,
-        "like_count": 0,
-        "is_24_hours": false
+        "like_count": 0
+        
     }
 ]
