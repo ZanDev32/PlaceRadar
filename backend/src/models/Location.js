@@ -29,7 +29,7 @@ const Location = sequelize.define('Location', {
         allowNull: true,
     },
     google_place_id: {
-        type: DataTypes.STRING,
+        type: DataTypes.TEXT,
         allowNull: false,
         unique: true,
     },

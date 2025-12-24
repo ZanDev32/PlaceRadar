@@ -4,12 +4,14 @@
   "description": "Frontend for the PlaceRadar application, a platform for students and remote workers who are looking for productive place.",
   "main": "src/main.jsx",
   "scripts": {
-    "dev": "vite",          
-    "build": "vite build",  
-    "serve": "vite preview" 
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
   },
   "dependencies": {
+    "@vis.gl/react-mapbox": "^8.1.0",
     "axios": "^1.13.2",
+    "mapbox-gl": "^3.17.0",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "react-router-dom": "^7.10.1"

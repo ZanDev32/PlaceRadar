@@ -66,3 +66,26 @@ footer {
     font-size: 0.9rem;
     color: #555;
 }
+
+.mapbox_container {
+    width: min(1100px, 100%);
+    height: 420px;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+.mapbox_notice {
+    width: min(1100px, 100%);
+    padding: 1rem;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.75);
+    color: #333;
+    text-align: center;
+}
+
+.mapbox_marker {
+    font-size: 20px;
+    cursor: pointer;
+    text-shadow: 0 0 4px rgba(255, 255, 255, 0.8);
+}

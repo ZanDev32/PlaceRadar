@@ -130,6 +130,7 @@ Edit [`.env`](.env) to configure the application. Key variables:
 | `JWT_EXPIRES_IN` | `1h` | JWT expiration, e.g., `15m`, `1h`, `7d` |
 | `ADMIN_USERNAME` | `admin` | Admin login for JWT issuance |
 | `ADMIN_PASSWORD` | `admin123` | Admin password for JWT issuance |
+| `VITE_MAPBOX_TOKEN` | - | Mapbox access token (required for frontend maps) |
 
 The backend reads configuration from [`backend/src/config/env.js`](backend/src/config/env.js).
 
@@ -191,7 +192,7 @@ docker compose logs -f          # Follow logs
 docker compose down             # Stop all services
 docker compose down -v          # Stop and remove volumes
 ```
-
+f
 ## Seeding Sample Data
 
 Pre-populate PostgreSQL with sample locations:
