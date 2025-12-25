@@ -1,6 +1,29 @@
-# PlaceRadar
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="frontend/src/assets//placeradar.svg" alt="Logo" width="480">
+  </a>
 
-PlaceRadar is a hyper-specific workspace discovery platform for students and remote workers in Sleman, Yogyakarta. It highlights practical amenities such as Wi-Fi stability, outlet availability, and ambient noise so users can quickly choose the best "third place" for focus work.
+  <p align="center">
+    Lokasi Tepat, Produktivitas Hebat!
+    <br />
+    <br />
+    <a href="https://github.com/ZanDev32/placeradar/ABOUT-US.MD">About Us</a>
+    &middot;
+    <a href="{insert informatics expo link}">Vote Project Now</a>
+    &middot;
+    <a href="https://github.com/ZanDev32/placeradar/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <br />
+    <br />
+    <a href="https://s.id/PlaceRadar/">
+      <img alt="PWA Badge" src="promotional/pwa-badge.png" height="80px">
+    </a>
+  </p>
+</div>
+
+# Introduction
+
+**PlaceRadar** is a hyper-specific workspace discovery platform for students and remote workers in Sleman, Yogyakarta. It highlights practical amenities such as Wi-Fi stability, outlet availability, and ambient noise so users can quickly choose the best "third place" for focus work.
 
 ## Table of Contents
 - [Architecture Overview](#architecture-overview)
@@ -21,7 +44,7 @@ PlaceRadar is a hyper-specific workspace discovery platform for students and rem
 ## Architecture Overview
 The application runs as six Docker services defined in [`docker-compose.yml`](docker-compose.yml):
 
-![Architecture](frontend/src/public/architecture.png)
+![Architecture](frontend/public/architecture.png)
 
 | Service | Container | Description |
 |---------|-----------|-------------|

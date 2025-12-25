@@ -1,5 +1,5 @@
 import React from 'react';
-import mascot from '../public/mascot.png';
+import mascot from '../assets/mascot.png';
 import { useLocation } from '../context/LocationContext';
 import MapboxPreview from '../components/MapboxPreview';
 
