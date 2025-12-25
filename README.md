@@ -16,7 +16,7 @@
     <br />
     <br />
     <a href="https://s.id/PlaceRadar/">
-      <img alt="PWA Badge" src="promotional/pwa-badge.png" height="80px">
+      <img alt="PWA Badge" src="assets/pwa-badge.png" height="80px">
     </a>
   </p>
 </div>
@@ -44,7 +44,7 @@
 ## Architecture Overview
 The application runs as six Docker services defined in [`docker-compose.yml`](docker-compose.yml):
 
-![Architecture](frontend/public/architecture.png)
+![Architecture](assets/architecture.png)
 
 | Service | Container | Description |
 |---------|-----------|-------------|

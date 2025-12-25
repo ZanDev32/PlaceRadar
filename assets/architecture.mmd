@@ -1,0 +1,49 @@
+---
+config:
+  layout: dagre
+  theme: redux
+  look: neo
+---
+flowchart TB
+ subgraph Tier_Net["Tier 0: Networking"]
+        CoreDNS["Container: CoreDNS"]
+        NgrokAgent["Container: ngrok (optional)"]
+        NgrokCloud["Ngrok Cloud"]
+  end
+ subgraph Tier_Web["Tier 1: Routing Layer"]
+        Nginx["Container: Nginx"]
+        React["Static React Files"]
+        Dev(("Developer/Team"))
+  end
+ subgraph Tier_App["Tier 2: Application"]
+        Api["Container: ExpressJS API"]
+  end
+ subgraph Tier_Data["Tier 3: Data"]
+        Postgres["Container: PostgreSQL + PostGIS plugin"]
+        PgAdmin["Container: pgAdmin"]
+  end
+ subgraph Tier_Mgmt["Tier 4: Management"]
+        Nagios["Container: NagiOS"]
+  end
+ subgraph Docker_Host["MDP's Dev Machine"]
+        Tier_Net
+        Tier_Web
+        Tier_App
+        Tier_Data
+        Tier_Mgmt
+  end
+    Public(("Public User")) -- "1. Public URL" --> NgrokCloud
+    NgrokCloud -. Secure Tunnel .-> NgrokAgent
+    NgrokAgent -- Forward External Traffic --> Nginx
+    Dev -. "1. DNS Lookup (placeradar.lvh.me)" .-> CoreDNS
+    CoreDNS -. "Resolve to 127.0.0.1" .-> Dev
+    Dev -- "2. HTTPS Request (https://placeradar.lvh.me)" --> Nginx
+    Nginx -- Serves / --> React
+    Nginx -- Proxy /api --> Api
+    Nginx -- Proxy /pgadmin ---> PgAdmin
+    Nginx -- Proxy /nagios ---> Nagios
+    Api -- Sequelize Query ---> Postgres
+    Postgres -- Return Rows --> Api
+    PgAdmin -- Admin SQL Connection --> Postgres
+
+    style Docker_Host fill:#f9f9f9,stroke:#333,stroke-width:2px
